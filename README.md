@@ -1,21 +1,11 @@
+<div align="center">
+  <h2>🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘. ✨🍀🌈 </h2>
+  
+  <h5>"𝐶𝑜𝑑𝑒 𝑖𝑠 𝑝𝑜𝑒𝑡𝑟𝑦."</h5> 
+  <h5>"𝐷𝑒𝑏𝑢𝑔𝑔𝑖𝑛𝑔 𝑖𝑠 𝑙𝑖𝑘𝑒 𝑏𝑒𝑖𝑛𝑔 𝑡𝘩𝑒 𝑑𝑒𝑡𝑒𝑐𝑡𝑖𝑣𝑒 𝑖𝑛 𝑎 𝑐𝑟𝑖𝑚𝑒 𝑚𝑜𝑣𝑖𝑒 𝑤𝑏𝑒𝑟𝑒 𝑦𝑜𝑢 𝑎𝑟𝑒 𝑎𝑙𝑠𝑜 𝑡𝘩𝑒 𝑚𝑢𝑟𝑑𝑒𝑟."</h5>
+  <h5>"𝐿𝑖𝑓𝑒 𝑖𝑠 𝑡𝑜𝑜 𝑠ℎ𝑜𝑟𝑡 𝑡𝑜 𝑤𝑟𝑖𝑡𝑒 𝑏𝑎𝑑 𝑐𝑜𝑑𝑒." </h5>
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 
-
-## Hi there 👋
-
-<!--
-**sbi1024/sbi1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
