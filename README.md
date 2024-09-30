@@ -7,10 +7,9 @@
   "𝐷𝑒𝑏𝑢𝑔𝑔𝑖𝑛𝑔 𝑖𝑠 𝑙𝑖𝑘𝑒 𝑏𝑒𝑖𝑛𝑔 𝑡𝘩𝑒 𝑑𝑒𝑡𝑒𝑐𝑡𝑖𝑣𝑒 𝑖𝑛 𝑎 𝑐𝑟𝑖𝑚𝑒 𝑚𝑜𝑣𝑖𝑒 𝑤𝑏𝑒𝑟𝑒 𝑦𝑜𝑢 𝑎𝑟𝑒 𝑎𝑙𝑠𝑜 𝑡𝘩𝑒 𝑚𝑢𝑟𝑑𝑒𝑟." <br><br>
 
   ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff) <br><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi1024)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 </div>
 
-<div align=center><h2>📚 𝑆𝑇𝐴𝐶𝐾𝑆</h2></div>
+<div align=center><h2>📚 𝑆𝑡𝑎𝑐𝑘𝑠 </h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
@@ -30,6 +29,16 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
+  <br><br>
 </div>
+
+<div align=center>
+  <h2> 📊 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 </h2>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi1024)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
+ 
+  
+
 
