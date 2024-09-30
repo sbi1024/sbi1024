@@ -39,7 +39,8 @@
 <div align=center>
   <h2> 📊 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 </h2>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi1024)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi1024)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact) <br><br>
   <br><br>
 </div>
   
