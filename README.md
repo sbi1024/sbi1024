@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white" alt="Spring Security" />
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo= centos&logoColor=white"alt="centos"/>
+    <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"alt="centos"/>
     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" alt="Amazon EC2" />
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="Amazon S3" />
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
