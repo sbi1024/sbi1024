@@ -14,7 +14,7 @@
         </a>
       </span>
       <span>
-        <a href="">
+         <a href="https://discord.gg/qMAZGWW4Zd">
           <img src="https://img.shields.io/badge/Discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
         </a>
       </span>
