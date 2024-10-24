@@ -19,7 +19,7 @@
       </span>
       <span>
         <a href="https://sbi1024.github.io/">
-          <img src="https://img.shields.io/badge/GitBlog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GitBlog-006272?style=plastic&logo=aerlingus&logoColor=white"/>
         </a>
       </span>
     </div>
