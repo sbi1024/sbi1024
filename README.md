@@ -76,6 +76,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&theme=apprentice" width=56% />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=xcode&hide_border=true" width=94% />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=xcode" width=94% />
   </a>
 </div>
