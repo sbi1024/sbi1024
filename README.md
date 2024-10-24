@@ -16,7 +16,7 @@
     </a>
   </span>
   <span>
-    <a href="">
+    <a href="https://sbi1024.github.io/">
       <img src="https://img.shields.io/badge/blog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
     </a>
   </span>
