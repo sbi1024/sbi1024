@@ -26,8 +26,6 @@
   </details>
 </div>
 
-
-
 <div align="center">
   <h2> 🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨🍀🌈 </h2>
   "𝐶𝑜𝑑𝑒 𝑖𝑠 𝑝𝑜𝑒𝑡𝑟𝑦."</br>
@@ -62,8 +60,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5" />
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
-</div>
-
+  </div>
 </div>
 
 
