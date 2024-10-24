@@ -25,7 +25,7 @@
       </span>
       <span>
         <a href="https://open.kakao.com/o/ggq6pkWg/">
-          <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=plastic&logo=aerlingus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=plastic&logo=kakaotalk&logoColor=white"/>
         </a>
       </span>
     </div>
