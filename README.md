@@ -9,7 +9,7 @@
 
 <div align=center>
   <h2> 💻🚀🔧  𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 🔧🚀💻 </h2>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
