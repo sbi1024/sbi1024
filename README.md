@@ -1,20 +1,39 @@
 <div align="center">
+  <h2> 🔗✉️💬 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒 💬✉️🔗 </h2>
+  <span>
+    <a href="https://www.instagram.com/yamu.okay/">
+      <img src="https://img.shields.io/badge/instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="treein10242@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="">
+      <img src="https://img.shields.io/badge/discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="">
+      <img src="https://img.shields.io/badge/blog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
+    </a>
+  </span>
+  <br><br>
+<div>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=𝑊𝐸𝐿𝐶𝑂𝑀𝐸&animation=twinkling&fontSize=105&fontAlignY=50&fontAlign=50&height=250)
-  ![welcome](https://github.com/user-attachments/assets/d6fa88d1-c946-4a27-8376-1ae32ae06c0f)
-
-  <h2> 🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘. ✨🍀🌈 </h2>
+<div align="center">
+  <h2> 🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨🍀🌈 </h2>
+  "𝐶𝑜𝑑𝑒 𝑖𝑠 𝑝𝑜𝑒𝑡𝑟𝑦."</br>
+  "𝐿𝑖𝑓𝑒 𝑖𝑠 𝑡𝑜𝑜 𝑠ℎ𝑜𝑟𝑡 𝑡𝑜 𝑤𝑟𝑖𝑡𝑒 𝑏𝑎𝑑 𝑐𝑜𝑑𝑒."</br>
+  "𝐷𝑒𝑏𝑢𝑔𝑔𝑖𝑛𝑔 𝑖𝑠 𝑙𝑖𝑘𝑒 𝑏𝑒𝑖𝑛𝑔 𝑡𝘩𝑒 𝑑𝑒𝑡𝑒𝑐𝑡𝑖𝑣𝑒 𝑖𝑛 𝑎 𝑐𝑟𝑖𝑚𝑒 𝑚𝑜𝑣𝑖𝑒 𝑤𝑏𝑒𝑟𝑒 𝑦𝑜𝑢 𝑎𝑟𝑒 𝑎𝑙𝑠𝑜 𝑡𝘩𝑒 𝑚𝑢𝑟𝑑𝑒𝑟." </br></br>
   
-  "𝐶𝑜𝑑𝑒 𝑖𝑠 𝑝𝑜𝑒𝑡𝑟𝑦." <br><br>
-  "𝐿𝑖𝑓𝑒 𝑖𝑠 𝑡𝑜𝑜 𝑠ℎ𝑜𝑟𝑡 𝑡𝑜 𝑤𝑟𝑖𝑡𝑒 𝑏𝑎𝑑 𝑐𝑜𝑑𝑒." <br><br>
-  "𝐷𝑒𝑏𝑢𝑔𝑔𝑖𝑛𝑔 𝑖𝑠 𝑙𝑖𝑘𝑒 𝑏𝑒𝑖𝑛𝑔 𝑡𝘩𝑒 𝑑𝑒𝑡𝑒𝑐𝑡𝑖𝑣𝑒 𝑖𝑛 𝑎 𝑐𝑟𝑖𝑚𝑒 𝑚𝑜𝑣𝑖𝑒 𝑤𝑏𝑒𝑟𝑒 𝑦𝑜𝑢 𝑎𝑟𝑒 𝑎𝑙𝑠𝑜 𝑡𝘩𝑒 𝑚𝑢𝑟𝑑𝑒𝑟." <br><br>
-
   ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff) <br><br>
 </div>
 
 <div align=center>
-  <h2> 📚 𝑆𝑡𝑎𝑐𝑘𝑠 </h2>
+  <h2> 💻🚀🔧  𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 🔧🚀💻 </h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
   <br>
   
@@ -32,10 +51,12 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   <br>
+  
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <br>
+  
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
@@ -45,33 +66,22 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   <br>
+  
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
   <br>
+  
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-
 </div>
 
 <div align="center">
-  <h2> 📊 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 </h2> <br>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact&bg_color=00000000&hide_border=true" height="200px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&bg_color=00000000&hide_border=true" height="200px" />
-      </td>
-    </tr>
-  </table>
+  <h2> ⚡🔥🧮 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🧮🔥⚡ </h2> <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94% />
+  </a>
 </div>
-
-
-
-
-
-  
- 
-  
-
-
