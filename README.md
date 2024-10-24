@@ -1,29 +1,4 @@
-<div align="center">
-  <h2> 🔗✉️💬 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒 💬✉️🔗 </h2>
-  <span>
-    <a href="https://www.instagram.com/yamu.okay/">
-      <img src="https://img.shields.io/badge/instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="treein10242@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="">
-      <img src="https://img.shields.io/badge/discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="https://sbi1024.github.io/">
-      <img src="https://img.shields.io/badge/blog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
-    </a>
-  </span>
-  <br><br>
-<div>
-  
-<div align="center">
+ <div align="center">
   <h2> 🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨🍀🌈 </h2>
   "𝐶𝑜𝑑𝑒 𝑖𝑠 𝑝𝑜𝑒𝑡𝑟𝑦."</br>
   "𝐿𝑖𝑓𝑒 𝑖𝑠 𝑡𝑜𝑜 𝑠ℎ𝑜𝑟𝑡 𝑡𝑜 𝑤𝑟𝑖𝑡𝑒 𝑏𝑎𝑑 𝑐𝑜𝑑𝑒."</br>
@@ -85,3 +60,28 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94% />
   </a>
 </div>
+
+<div align="center">
+  <h2> 🔗✉️💬 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒 💬✉️🔗 </h2>
+  <span>
+    <a href="https://www.instagram.com/yamu.okay/">
+      <img src="https://img.shields.io/badge/instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="treein10242@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="">
+      <img src="https://img.shields.io/badge/discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://sbi1024.github.io/">
+      <img src="https://img.shields.io/badge/blog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
+    </a>
+  </span>
+  <br><br>
+<div>
