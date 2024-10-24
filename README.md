@@ -1,26 +1,32 @@
 <div align="center">
-  <h4>🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞 🌐</h4>
-  <span>
-    <a href="https://www.instagram.com/yamu.okay/">
-      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="mailto:treein10242@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="">
-      <img src="https://img.shields.io/badge/Discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
-    </a>
-  </span>
-  <span>
-    <a href="https://sbi1024.github.io/">
-      <img src="https://img.shields.io/badge/GitBlog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
-    </a>
-  </span>
-</div></br>
+  <details>
+    <summary style="cursor: pointer; color: #007bff; text-decoration: underline; font-size: 24px;">🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞 🌐</summary>
+    <div>
+      <span>
+        <a href="https://www.instagram.com/yamu.okay/">
+          <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
+        </a>
+      </span>
+      <span>
+        <a href="mailto:treein10242@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+        </a>
+      </span>
+      <span>
+        <a href="">
+          <img src="https://img.shields.io/badge/Discord-2E9FFF?style=plastic&logo=discord&logoColor=white"/>
+        </a>
+      </span>
+      <span>
+        <a href="https://sbi1024.github.io/">
+          <img src="https://img.shields.io/badge/GitBlog-000000?style=plastic&logo=bloglovin&logoColor=white"/>
+        </a>
+      </span>
+    </div>
+  </details>
+</div>
+
+
 
 <div align="center">
   <h2> 🌈🍀✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨🍀🌈 </h2>
