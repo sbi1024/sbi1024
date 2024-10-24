@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.sapprenticehields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5" />
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -71,12 +71,12 @@
 <div align="center">
   <h2> ⚡🔥🧮 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🧮🔥⚡ </h2> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&theme=apprentice" width=56% />
+      <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&theme=dark" width=56% />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&theme=apprentice" width=38% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&hide_border=true&theme=dark" width=38% />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=xcode" width=94% />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=high-contrast&hide_border=true" width=94% />
   </a>
 </div>
