@@ -69,11 +69,11 @@
 
 <div align="center">
   <h2> ⚡🔥🧮 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🧮🔥⚡ </h2> <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&theme=apprentice" width=38% />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&theme=apprentice" width=56% />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&theme=apprentice" width=38% />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=xcode" width=94% />
