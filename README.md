@@ -23,6 +23,11 @@
           <img src="https://img.shields.io/badge/GitBlog-006272?style=plastic&logo=aerlingus&logoColor=white"/>
         </a>
       </span>
+      <span>
+        <a href="https://open.kakao.com/o/ggq6pkWg/">
+          <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=plastic&logo=aerlingus&logoColor=white"/>
+        </a>
+      </span>
     </div>
   </details>
 </div>
