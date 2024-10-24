@@ -71,7 +71,7 @@
 <div align="center">
   <h2> ⚡🔥🧮 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🧮🔥⚡ </h2> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&bg_color=000000&theme=dark" width=56% />
+      <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&bg_color=000000&icon_color=B51DDB&theme=dark" width=56% />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&hide_border=true&bg_color=000000&theme=dark" width=38% />
