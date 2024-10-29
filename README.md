@@ -37,8 +37,11 @@
   "𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒." </br>
   "𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠."</br>
   "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </br></br>
+
+  ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7)
+
   
-  ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff)
+  <!-- ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff) -->
 </div>
 
 <div align="center">
