@@ -39,10 +39,18 @@
   "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </br></br>
 
   ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7)
-
-  
-  <!-- ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff) -->
 </div>
+
+<!--<div align="center">
+  <h2> 🌟🦄🌺 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 🌺🦄🌟 </h2>
+  👋 Hello! I am 𝑠𝑒𝑜𝑏𝑜𝑖𝑛! 👋     
+
+  🌱 Currently learning: Docker, Kubernetes   
+  💼 Tech Stack: Java, SpringBoot, IntelliJ   
+  🧩 Project Experience:    
+  
+  ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/74793507-4f6d-4910-a0fc-ba975190f4ff)
+</div> -->
 
 <div align="center">
   <h2>💻🚀🔧 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 🔧🚀💻</h2>
@@ -66,7 +74,9 @@
     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" alt="Amazon EC2" />
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="Amazon S3" />
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"alt="kubernetes"/>
+    <img src = "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
     <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Apache Tomcat" />
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -74,6 +84,7 @@
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5" />
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+    <img src = "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </div>
