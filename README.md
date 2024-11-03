@@ -107,11 +107,7 @@
 <div align="center">
  <h2> 🌟🦄🌺 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑖𝑛𝑔 🌺🦄🌟 </h2>
   <!-- BLOG-POST-LIST:START -->
-- [T1 경기는 보지도 않았는데 피곤해서 오후에 낮잠만 4시간 잔 사람](https://sbi1024.github.io/Etc/diary/post-05.html)
-- [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
-- [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
-- [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
-- [중복된 숫자 개수](https://sbi1024.github.io/Programmers/java-ex/level0/post-01.html)
-<!-- BLOG-POST-LIST:END -->
+
+  <!-- BLOG-POST-LIST:END -->
 </div>
 
