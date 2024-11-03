@@ -107,6 +107,6 @@
 
   <!-- <h2> 🌟🦄🌺 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑖𝑛𝑔 🌺🦄🌟 </h2> -->
   <!-- BLOG-POST-LIST:START -->
-- [{{ post.title }}]({{ post.url }})
-<!-- BLOG-POST-LIST:END -->
+
+  <!-- BLOG-POST-LIST:END -->
 
