@@ -24,11 +24,8 @@
 | DevOps | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,aws" /> |
 | Tool | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
 | OS | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
+| ETC | <img src="https://skillicons.dev/icons?i=md" /> |
 
-
-
-    
-    
 ---
 ## 📕 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑖𝑛𝑔  <a href="https://sbi1024.github.io/"><img src="https://img.shields.io/badge/GitBlog-006272?style=plastic&logo=aerlingus&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
