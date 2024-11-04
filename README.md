@@ -1,4 +1,7 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
+### Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/8VT0fnxjXLuG97jn0y/giphy.gif?cid=790b7611u5j6p3ormlhre4v1gve4zf7r3swxe43wa0oei5f9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="3%"></a> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFCD8&width=435&lines=%F0%9D%91%8A%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92+%F0%9D%91%A1%F0%9D%91%9C+%F0%9D%91%9A%F0%9D%91%A6+%F0%9D%90%BA%F0%9D%91%96%F0%9D%91%A1%F0%9D%90%BB%F0%9D%91%A2%F0%9D%91%8F+%F0%9D%91%9D%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92!)](https://git.io/typing-svg)
+<!-- https://giphy.com/search/%ED%96%89%EB%B3%B5%ED%95%B4-stickers -->
 
 🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
@@ -18,9 +21,7 @@
  ➢ 𝐼 𝑐𝑎𝑛 𝑑𝑜 𝑖𝑡! 𝐼 𝑟𝑒𝑎𝑙𝑙𝑦 𝑐𝑎𝑛!  </br>
  ➢ 𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠.  </br>
  ➢ 𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒. </br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%91%96%F0%9D%91%93+%F0%9D%91%A6%F0%9D%91%9C%F0%9D%91%A2+%F0%9D%91%91%F0%9D%91%9C+%F0%9D%91%93%F0%9D%91%96%F0%9D%91%A3%F0%9D%91%92%25%2C+%F0%9D%91%9B%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%92%F0%9D%91%93%F0%9D%91%96%F0%9D%91%93%F0%9D%91%A1%F0%9D%91%A6%F0%9D%91%93%F0%9D%91%96%F0%9D%91%A3%F0%9D%91%92%25+%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%99%F0%9D%91%99+%F0%9D%91%93%F0%9D%91%9C%F0%9D%91%99%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%A4.)](https://git.io/typing-svg)
 
- 
 ### 📕 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
   <!-- BLOG-POST-LIST:START -->
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
