@@ -44,10 +44,7 @@
 
 ---
 
-### 📕 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 [(𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡)](https://sbi1024.github.io/)
-[![free-icon-github-733553](https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991)](https://www.naver.com)
-
-
+### <a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="25" heigth = "25" /> </a>  𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
 <!-- BLOG-POST-LIST:START -->
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
 - [T1 경기는 보지도 않았는데 피곤해서 오후에 낮잠만 4시간 잔 사람](https://sbi1024.github.io/Etc/diary/post-05.html)
