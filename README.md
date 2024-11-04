@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9D%91%8A%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92+%F0%9D%91%A1%F0%9D%91%9C+%F0%9D%91%9A%F0%9D%91%A6+%F0%9D%90%BA%F0%9D%91%96%F0%9D%91%A1%F0%9D%90%BB%F0%9D%91%A2%F0%9D%91%8F+%F0%9D%91%9D%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92!)](https://git.io/typing-svg)
 <!-- https://giphy.com/search/%ED%96%89%EB%B3%B5%ED%95%B4-stickers -->
 
-🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
+### 🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
