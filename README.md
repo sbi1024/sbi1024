@@ -5,9 +5,6 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7D8E8&width=435&lines=%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92!)](https://git.io/typing-svg)
-
-<!-- https://giphy.com/search/%ED%96%89%EB%B3%B5%ED%95%B4-stickers -->
-
 🔗 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
