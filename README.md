@@ -3,7 +3,7 @@
 ### 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒 🔗  
 <span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
-<span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/a233999e-8013-4c80-9c0f-cae71a75ab5e" alt="free-icon-github-733553" width="50" heigth = "50"></a></span>
+<span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/5aec97fd-8573-441a-a8fa-19e47ce5e2d9" alt="free-icon-github-733553" width="50" heigth = "50"></a></span>
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 
