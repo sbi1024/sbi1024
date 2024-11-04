@@ -56,7 +56,7 @@
 |:---:|:---:|
 |<img src="http://mazassumnida.wtf/api/generate_badge?boj=sbi1024" witdh=100% />|<img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&bg_color=000000&icon_color=B51DDB&theme=dark" width=100% />|
 | **Most Language** | **Github Streak** |
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=donut&show_icons=true&hide_border=true&bg_color=000000&theme=dark" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact&show_icons=true&hide_border=true&bg_color=000000&theme=dark" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
 
 | Graph |
 |:---:|
