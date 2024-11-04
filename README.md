@@ -47,7 +47,7 @@
 ### <a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="25" heigth = "25" /> </a>  𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>readmd 파일에...</td><td>https://sbi1024.github.io/Git/blog/post-01.html</td></tr><tr><td>T1 경기는 보지도...</td><td>https://sbi1024.github.io/Etc/diary/post-05.html</td></tr><tr><td>멀티쓰레드는 정말...</td><td>https://sbi1024.github.io/Etc/diary/post-03.html</td></tr><tr><td>제네릭타입에 Voi...</td><td>https://sbi1024.github.io/Etc/diary/post-04.html</td></tr><tr><td>2024년이 두달...</td><td>https://sbi1024.github.io/Etc/diary/post-02.html</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>readmd 파일에...</td><td>https://sbi1024.github.io/Git/blog/post-01.html</td></tr><tr><td>T1 경기는 보지도...</td><td>https://sbi1024.github.io/Etc/diary/post-05.html</td></tr><tr><td>멀티쓰레드는 정말...</td><td>https://sbi1024.github.io/Etc/diary/post-03.html</td></tr><tr><td>제네릭타입에 Voi...</td><td>https://sbi1024.github.io/Etc/diary/post-04.html</td></tr><tr><td>2024년이 두달...</td><td>https://sbi1024.github.io/Etc/diary/post-02.html</td></tr><tr><td>중복된 숫자 개수</td><td>https://sbi1024.github.io/Programmers/java-ex/level0/post-01.html</td></tr><tr><td>앞으로 시스템화 해...</td><td>https://sbi1024.github.io/Etc/diary/post-01.html</td></tr><tr><td>GITHUB 에서...</td><td>https://sbi1024.github.io/Git/License/post-01.html</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
