@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
 
 <span><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%"></a></span>
-<span>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7D8E8&width=435&lines=%F0%9D%91%8A%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92+%F0%9D%91%A1%F0%9D%91%9C+%F0%9D%91%9A%F0%9D%91%A6+%F0%9D%90%BA%F0%9D%91%96%F0%9D%91%A1%F0%9D%90%BB%F0%9D%91%A2%F0%9D%91%8F+%F0%9D%91%9D%F0%9D%91%8E%F0%9D%91%94%F0%9D%91%92!)](https://git.io/typing-svg)</span>
+<span>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7D8E8&width=435&lines=%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92!)](https://git.io/typing-svg)</span>
 
 <!-- https://giphy.com/search/%ED%96%89%EB%B3%B5%ED%95%B4-stickers -->
 
