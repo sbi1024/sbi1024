@@ -20,3 +20,4 @@ jobs:
           template: "<tr><td>$title</td><td>$url</td></tr>"
           title_max_length: 10
           description_max_length: 10
+          max_post_count: 10
