@@ -18,10 +18,10 @@
 ##  💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
 | Category | Technologies|
 |-----------|-------------|
-| Backend | <img src="https://skillicons.dev/icons?i=java,spring,gradle,grafana,hibernate,kafka,kubernetes" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka" /> |
 | Database | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
 | Frontend | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
-| DevOps | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,aws" /> |
+| DevOps | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,aws" /> |
 | Tool | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
 | OS | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
 | ETC | <img src="https://skillicons.dev/icons?i=md" /> |
