@@ -2,9 +2,9 @@
 </a>     
 
 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
-<span><img src="https://skillicons.dev/icons?i=discord" /></span>
-<span><img src="https://skillicons.dev/icons?i=gmail" /></span>
-<span><img src="https://skillicons.dev/icons?i=instagram" /></span>
+<span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
+<span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
+<span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
 
  ## ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘  </br>
   "𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒." </br>
