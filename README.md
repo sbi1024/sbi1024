@@ -1,12 +1,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/>
 </a>     
 
-🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
+🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
 
- ## ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘  </br>
+ ### ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘  </br>
   "𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒." </br>
   "𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠."</br>
   "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </br></br>
@@ -15,7 +15,7 @@
 
 ---
 
-##  💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
+###  ☕ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
 | Category | Technologies|
 |-----------|-------------|
 | Backend | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka" /> |
@@ -27,7 +27,7 @@
 | ETC | <img src="https://skillicons.dev/icons?i=md" /> |
 
 ---
-## 📕 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑖𝑛𝑔  <a href="https://sbi1024.github.io/"><img src="https://img.shields.io/badge/GitBlog-006272?style=plastic&logo=aerlingus&logoColor=white"/></a>
+### 📕 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑖𝑛𝑔  [(𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡)](https://sbi1024.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
 - [T1 경기는 보지도 않았는데 피곤해서 오후에 낮잠만 4시간 잔 사람](https://sbi1024.github.io/Etc/diary/post-05.html)
@@ -36,7 +36,7 @@
 - [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
 <!-- BLOG-POST-LIST:END -->
 ---
-## ⚡ 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 
+### 🔥 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 
 | Beakjoon | Github Stats|
 |:---:|:---:|
 |<img src="http://mazassumnida.wtf/api/generate_badge?boj=sbi1024" witdh=100% />|<img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&bg_color=000000&icon_color=B51DDB&theme=dark" width=100% />|
