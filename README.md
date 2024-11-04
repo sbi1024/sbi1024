@@ -61,9 +61,9 @@
 ### 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
 | 𝑁𝑎𝑚𝑒 | 𝐼𝑚𝑎𝑔𝑒 |
 |-----------|-------------|
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=ambient_gradient&show_icons=true&hide_border=true" width=450px height=100%/> |
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=ocean-gradient&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=450px height=100%/>|
-| 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=dark" width=450px height=100%/>|
+| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&hide_border=true" width=450px height=100%/> |
+| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=holi-theme&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true" width=450px height=100%/>|
+| 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=github-dark&hide_border=true" width=450px height=100%/>|
 
 
 
