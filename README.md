@@ -4,6 +4,19 @@
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
+<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>  
+
+### 📕 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
+  <!-- BLOG-POST-LIST:START -->
+- [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
+- [T1 경기는 보지도 않았는데 피곤해서 오후에...](https://sbi1024.github.io/Etc/diary/post-05.html)
+- [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
+- [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
+- [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
+- [중복된 숫자 개수](https://sbi1024.github.io/Programmers/java-ex/level0/post-01.html)
+- [앞으로 시스템화 해야 할 공부단계](https://sbi1024.github.io/Etc/diary/post-01.html)
+- [GITHUB 에서 자주 사용하는 LICENSE...](https://sbi1024.github.io/Git/License/post-01.html)
+<!-- BLOG-POST-LIST:END -->
 
  ### ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘
  <details>
@@ -41,20 +54,6 @@
 | Tool | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
 | OS | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
 | ETC | <img src="https://skillicons.dev/icons?i=md" /> |
-
----
-
-### <a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="25" heigth = "25" /> </a>  𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
-  <!-- BLOG-POST-LIST:START -->
-- [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
-- [T1 경기는 보지도 않았는데 피곤해서 오후에...](https://sbi1024.github.io/Etc/diary/post-05.html)
-- [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
-- [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
-- [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
-- [중복된 숫자 개수](https://sbi1024.github.io/Programmers/java-ex/level0/post-01.html)
-- [앞으로 시스템화 해야 할 공부단계](https://sbi1024.github.io/Etc/diary/post-01.html)
-- [GITHUB 에서 자주 사용하는 LICENSE...](https://sbi1024.github.io/Git/License/post-01.html)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
