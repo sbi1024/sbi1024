@@ -1,5 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/>
-</a>     
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a> 
 
 🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
@@ -27,11 +26,9 @@
   <summary> "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </summary>
    <p>"행복해서 웃는 것이 아니라, 웃기 때문에 행복하다."</p>
  </details> 
- </br></br>
  
   ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7)
-
-
+  
 ---
 
 ###  ☕ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
@@ -46,6 +43,7 @@
 | ETC | <img src="https://skillicons.dev/icons?i=md" /> |
 
 ---
+
 ### 📕 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 [(𝑠ℎ𝑜𝑟𝑡𝑐𝑢𝑡)](https://sbi1024.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
@@ -54,7 +52,9 @@
 - [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
 - [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
 <!-- BLOG-POST-LIST:END -->
+
 ---
+
 ### 🔥 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 
 | Beakjoon | Github Stats|
 |:---:|:---:|
