@@ -18,29 +18,12 @@
 - [GITHUB 에서 자주 사용하는 LICENSE...](https://sbi1024.github.io/Git/License/post-01.html)
 <!-- BLOG-POST-LIST:END -->
 
- ### ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘
- <details>
-  <summary> "𝐸𝑛𝑗𝑜𝑦 𝑡ℎ𝑖𝑠 𝑚𝑜𝑚𝑒𝑛𝑡!" </summary>
-   <p>"즐겨라, 이 순간을!"</p>
- </details>
- <details>
-  <summary> "𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒." </summary>
-   <p>"행복은 선택이다."</p>
- </details>
- <details>
-  <summary> "𝐼 𝑐𝑎𝑛 𝑑𝑜 𝑖𝑡! 𝐼 𝑟𝑒𝑎𝑙𝑙𝑦 𝑐𝑎𝑛!" </summary>
-   <p>"할 수 있다! 나는 할 수 있다!"</p>
- </details>
- <details>
-  <summary> "𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠." </summary>
-   <p>"작은 것에서 행복을 느끼자."</p>
- </details>
- <details>
-  <summary> "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </summary>
-   <p>"행복해서 웃는 것이 아니라, 웃기 때문에 행복하다."</p>
- </details> 
- 
-  ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7)
+### ✨ 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘
+| Quotes | Image |
+|--------|-------|
+| <details><summary> "𝐸𝑛𝑗𝑜𝑦 𝑡ℎ𝑖𝑠 𝑚𝑜𝑚𝑒𝑛𝑡!" </summary><p>"즐겨라, 이 순간을!"</p></details><details><summary> "𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒." </summary><p>"행복은 선택이다."</p></details><details><summary> "𝐼 𝑐𝑎𝑛 𝑑𝑜 𝑖𝑡! 𝐼 𝑟𝑒𝑎𝑙𝑙𝑦 𝑐𝑎𝑛!" </summary><p>"할 수 있다! 나는 할 수 있다!"</p></details><details><summary> "𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠." </summary><p>"작은 것에서 행복을 느끼자."</p></details><details><summary> "𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒." </summary><p>"행복해서 웃는 것이 아니라, 웃기 때문에 행복하다."</p></details>|![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7) |
+
+
   
 ---
 
