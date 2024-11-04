@@ -1,6 +1,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
 
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%"></a>
+<a href="https://www.gautamkrishnar.com/">
+  <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%">
+</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7D8E8&width=435&lines=%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92!)](https://git.io/typing-svg)
 
 <!-- https://giphy.com/search/%ED%96%89%EB%B3%B5%ED%95%B4-stickers -->
@@ -52,12 +55,12 @@
 ---
 
 ### 🔥 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 
-| Beakjoon | Github Stats|
+| 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 |
 |:---:|:---:|
 |<img src="http://mazassumnida.wtf/api/generate_badge?boj=sbi1024" witdh=100% />|<img src="https://github-readme-stats.vercel.app/api?username=sbi1024&show_icons=true&hide_border=true&bg_color=000000&icon_color=B51DDB&theme=dark" width=100% />|
-| **Most Language** | **Github Streak** |
+| **𝑀𝑜𝑠𝑡 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒** | **𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘** |
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact&show_icons=true&hide_border=true&bg_color=000000&theme=dark" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
 
-| Graph |
+| 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |
 |:---:|
 |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=high-contrast&hide_border=true" width=872px />|
