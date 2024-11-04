@@ -66,4 +66,4 @@
 
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |
 |:---:|
-|<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=high-contrast&hide_border=true" width=872px />|
+|<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=green" width=872px />|
