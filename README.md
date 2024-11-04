@@ -47,7 +47,7 @@
 ### <a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="25" heigth = "25" /> </a>  𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>readmd 파일에 깃허브 블로그 글 가져오기</td><td>https://sbi1024.github.io/Git/blog/post-01.html</td></tr><tr><td>T1 경기는 보지도 않았는데 피곤해서 오후에 낮잠만 4시간 잔 사람</td><td>https://sbi1024.github.io/Etc/diary/post-05.html</td></tr><tr><td>멀티쓰레드는 정말 중요한가보다</td><td>https://sbi1024.github.io/Etc/diary/post-03.html</td></tr><tr><td>제네릭타입에 Void라는게 있네?</td><td>https://sbi1024.github.io/Etc/diary/post-04.html</td></tr><tr><td>2024년이 두달 남은 시점에서의 목표</td><td>https://sbi1024.github.io/Etc/diary/post-02.html</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>readmd 파일에...</td><td>https://sbi1024.github.io/Git/blog/post-01.html</td></tr><tr><td>T1 경기는 보지도...</td><td>https://sbi1024.github.io/Etc/diary/post-05.html</td></tr><tr><td>멀티쓰레드는 정말...</td><td>https://sbi1024.github.io/Etc/diary/post-03.html</td></tr><tr><td>제네릭타입에 Voi...</td><td>https://sbi1024.github.io/Etc/diary/post-04.html</td></tr><tr><td>2024년이 두달...</td><td>https://sbi1024.github.io/Etc/diary/post-02.html</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
