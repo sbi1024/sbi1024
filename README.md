@@ -4,7 +4,8 @@
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
-<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>  
+<span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/a233999e-8013-4c80-9c0f-cae71a75ab5e" alt="free-icon-github-733553" width="50" heigth = "50"></a></span>
+<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>
 <details><summary> 🌈 𝐶𝑙𝑖𝑐𝑘 𝑌𝑜𝑢 𝐻𝑎𝑝𝑝𝑦 </summary>
   
   ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7) 
