@@ -62,7 +62,7 @@
 |:---:|:---:|
 |<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=100% />|<img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=ambient_gradient&show_icons=true" width=100% />|
 | **𝑀𝑜𝑠𝑡 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒** | **𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘** |
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact&show_icons=true&hide_border=true&bg_color=000000&icon_color=B51DDB&theme=synthwave" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=ocean-gradient&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbi1024&layout=compact&show_icons=true&theme=bear" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=ocean-gradient&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
 
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |
 |:---:|
