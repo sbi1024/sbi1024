@@ -1,11 +1,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
 
 ### 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒 🔗  
-<span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
-<span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
+<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
 <span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/a233999e-8013-4c80-9c0f-cae71a75ab5e" alt="free-icon-github-733553" width="50" heigth = "50"></a></span>
-<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>
+<span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
+<span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 
 ### 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨
  ➢ 𝐸𝑛𝑗𝑜𝑦 𝑡ℎ𝑖𝑠 𝑚𝑜𝑚𝑒𝑛𝑡!  </br>
@@ -19,13 +19,15 @@
   ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7) 
 </details>
 
-### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="3%"></a> 
+---
+
+### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%"></a> 
 ➢  𝐼’𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑜𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑎𝑛𝑑 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 </br>
 ➢  𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2(𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)! </br>
-
-➢  𝐶ℎ𝑒𝑐𝑘 𝑜𝑢𝑡 𝑚𝑦 𝑏𝑙𝑜𝑔: [𝐶𝑙𝑖𝑐𝑘 𝑀𝑒!](https://sbi1024.github.io/)
+➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛.</br>
+➢  𝐶ℎ𝑒𝑐𝑘 𝑜𝑢𝑡 𝑚𝑦 𝑏𝑙𝑜𝑔: [𝐶𝑙𝑖𝑐𝑘 𝑀𝑒!](https://sbi1024.github.io/) 🌊
 
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
