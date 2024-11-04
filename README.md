@@ -1,10 +1,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
 
-<a href="https://www.gautamkrishnar.com/">
-  <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%">
-</a>
+### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="3%"></a>
+➢ 🌱 𝐼’𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
+➢ 🏆 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑜𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑎𝑛𝑑 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 </br>
+➢ 🌐 𝐶ℎ𝑒𝑐𝑘 𝑜𝑢𝑡 𝑚𝑦 𝑏𝑙𝑜𝑔: [𝐶𝑙𝑖𝑐𝑘 𝑀𝑒!](https://sbi1024.github.io/) </br>
+➢ 💬 𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
+➢ 🚀 𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2(𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7D8E8&width=435&lines=%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%99%F0%9D%91%90%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92!)](https://git.io/typing-svg)
 
 🔗 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒     
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
@@ -40,15 +42,15 @@
 ---
 
 ###  ☕ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
-| Category | Technologies|
+| 𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑦 | 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠|
 |-----------|-------------|
-| Backend | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka" /> |
-| Database | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
-| Frontend | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
-| DevOps | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,aws" /> |
-| Tool | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
-| OS | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
-| ETC | <img src="https://skillicons.dev/icons?i=md" /> |
+| 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka" /> |
+| 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
+| 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
+| 𝐷𝑒𝑣𝑂𝑝𝑠 | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,aws" /> |
+| 𝑇𝑜𝑜𝑙 | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
+| 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
+| 𝐸𝑇𝐶 | <img src="https://skillicons.dev/icons?i=md" /> |
 
 ---
 
