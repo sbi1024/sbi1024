@@ -21,7 +21,7 @@
 
 ---
 
-### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%"></a> 
+### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%">
 ➢  𝐼’𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑜𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑎𝑛𝑑 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 </br>
 ➢  𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
@@ -65,3 +65,13 @@
 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true" width=450px/> |
 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=holi-theme&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true" width=450px/>|
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/>|
+
+---
+
+### 𝐺𝑖𝑡𝐻𝑢𝑏 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="8%">
+| 𝐽𝑢𝑠𝑡 𝑙𝑜𝑜𝑘 |
+|-----------|
+| <img src="https://render.gitanimals.org/farms/sbi1024" width=650px/> |
+
+
+
