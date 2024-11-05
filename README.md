@@ -28,8 +28,8 @@
 ➢  𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2 (𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)! </br>
 ➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛💧🌊 </br>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ambient_gradient&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ambient_gradient&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=aura&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=aura&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START -->
