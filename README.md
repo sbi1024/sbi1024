@@ -31,7 +31,7 @@
 
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
 - [T1 경기는 보지도 않았는데 피곤해서 오후에...](https://sbi1024.github.io/Etc/diary/post-05.html)
 - [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
@@ -52,7 +52,7 @@
 | 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
 | 𝐷𝑒𝑣𝑂𝑝𝑠 | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,aws" /> |
 | 𝑇𝑜𝑜𝑙 | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
-| 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,linux" /> |
+| 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,windows,linux" /> |
 | 𝐸𝑇𝐶 | <img src="https://skillicons.dev/icons?i=md" /> |
 | 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=100% /> |
 
@@ -64,13 +64,3 @@
 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&background=transparent&hide_border=true" width=450px/> |
 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=holi-theme&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true" width=450px/>|
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=github-dark&background=transparent&hide_border=true" width=450px/>|
-
-
-
-<!-- | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |
-|-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=ambient_gradient&show_icons=true&hide_border=true" width=100% />|<img src="https://streak-stats.demolab.com?user=sbi1024&theme=ocean-gradient&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=100% />|
-
-| 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |
-|:---:|
-|<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=green" width=100% />| -->
