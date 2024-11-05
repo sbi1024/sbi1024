@@ -26,7 +26,7 @@
 ➢  𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑜𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑎𝑛𝑑 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 </br>
 ➢  𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2 (𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)! </br>
-➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛💧🌊 </br>
+➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛💧🌊🫧 </br>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ayu-mirage&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ayu-mirage&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
@@ -70,7 +70,5 @@
 
 ---
 
-### 𝐺𝑖𝑡ℎ𝑢𝑏 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="8%">
-| 𝐴𝑛𝑖𝑚𝑎𝑙𝑠 |
-|-----------|
-| <img src="https://render.gitanimals.org/farms/sbi1024" width=620px/> |
+### 𝐴𝑛𝑖𝑚𝑎𝑙𝑠 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="8%">
+<img src="https://render.gitanimals.org/farms/sbi1024" width=650px/>
