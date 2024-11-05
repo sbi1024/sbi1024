@@ -33,12 +33,14 @@
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START -->
+- [[백준 25304] 영수증](https://sbi1024.github.io/CodingTest/java-ex/post-02.html)
+- [[백준 25314] 코딩은 체육과목 입니다](https://sbi1024.github.io/CodingTest/java-ex/post-03.html)
 - [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
 - [T1 경기는 보지도 않았는데 피곤해서 오후에...](https://sbi1024.github.io/Etc/diary/post-05.html)
 - [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
 - [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
+- [[프로그래머스] 중복된 숫자 개수](https://sbi1024.github.io/CodingTest/java-ex/post-01.html)
 - [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
-- [중복된 숫자 개수](https://sbi1024.github.io/Programmers/java-ex/level0/post-01.html)
 - [앞으로 시스템화 해야 할 공부단계](https://sbi1024.github.io/Etc/diary/post-01.html)
 - [GITHUB 에서 자주 사용하는 LICENSE...](https://sbi1024.github.io/Git/License/post-01.html)
 <!-- BLOG-POST-LIST:END -->
