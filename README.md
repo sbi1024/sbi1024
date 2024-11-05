@@ -28,8 +28,8 @@
 ➢  𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2 (𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)! </br>
 ➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛💧🌊 </br>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=aura&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=aura&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ayu-mirage&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&theme=ayu-mirage&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START -->
@@ -63,5 +63,5 @@
 | 𝑁𝑎𝑚𝑒 | 𝐼𝑚𝑎𝑔𝑒 |
 |-----------|-------------|
 | 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true" width=450px/> |
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=holi-theme&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true" width=450px/>|
+| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com?user=sbi1024&theme=holi-theme&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true" width=450px/>|
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/>|
