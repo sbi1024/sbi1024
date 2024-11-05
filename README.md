@@ -1,9 +1,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
 
 ### 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒 🔗  
-<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github-733553" width="50" heigth = "50" /></a></span>
+<span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github" width="50" heigth = "50" /></a></span>
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a></span>
-<span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/5aec97fd-8573-441a-a8fa-19e47ce5e2d9" alt="free-icon-github-733553" width="50" heigth = "50"></a></span>
+<span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/5aec97fd-8573-441a-a8fa-19e47ce5e2d9" alt="free-icon-kakao" width="50" heigth = "50"></a></span>
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 
