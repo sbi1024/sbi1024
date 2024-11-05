@@ -68,10 +68,7 @@
 
 ---
 
-### 𝐺𝑖𝑡𝐻𝑢𝑏 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="8%">
+### 𝐺𝑖𝑡ℎ𝑢𝑏 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="8%">
 | 𝐽𝑢𝑠𝑡 𝑙𝑜𝑜𝑘 |
 |-----------|
-| <img src="https://render.gitanimals.org/farms/sbi1024" width=650px/> |
-
-
-
+| <img src="https://render.gitanimals.org/farms/sbi1024" width=620px/> |
