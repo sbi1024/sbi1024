@@ -50,14 +50,14 @@
 ### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 ☕
 | 𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑦 | 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠|
 |-----------|-------------|
-| 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka" /> |
+| 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch" /> |
 | 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
 | 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
-| 𝐷𝑒𝑣𝑂𝑝𝑠 | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,aws" /> |
+| 𝐷𝑒𝑣𝑂𝑝𝑠 | <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws" /> |
 | 𝑇𝑜𝑜𝑙 | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
 | 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,windows,linux" /> |
 | 𝐸𝑇𝐶 | <img src="https://skillicons.dev/icons?i=md" /> |
-| 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=100% /> |
+| 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=100% /> |
 
 ---
 
