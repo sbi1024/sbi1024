@@ -33,16 +33,16 @@
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START -->
-- [[백준 25304] 영수증](https://sbi1024.github.io/CodingTest/java-ex/post-02.html)
-- [[백준 25314] 코딩은 체육과목 입니다](https://sbi1024.github.io/CodingTest/java-ex/post-03.html)
-- [readmd 파일에 깃허브 블로그 글 가져오기](https://sbi1024.github.io/Git/blog/post-01.html)
-- [T1 경기는 보지도 않았는데 피곤해서 오후에...](https://sbi1024.github.io/Etc/diary/post-05.html)
-- [멀티쓰레드는 정말 중요한가보다](https://sbi1024.github.io/Etc/diary/post-03.html)
-- [제네릭타입에 Void라는게 있네?](https://sbi1024.github.io/Etc/diary/post-04.html)
-- [[프로그래머스] 중복된 숫자 개수](https://sbi1024.github.io/CodingTest/java-ex/post-01.html)
-- [2024년이 두달 남은 시점에서의 목표](https://sbi1024.github.io/Etc/diary/post-02.html)
-- [앞으로 시스템화 해야 할 공부단계](https://sbi1024.github.io/Etc/diary/post-01.html)
-- [GITHUB 에서 자주 사용하는 LICENSE...](https://sbi1024.github.io/Git/License/post-01.html)
+- [[백준 10811] 바구니 뒤집기](https://sbi1024.github.io/CodingTest/java-ex/post-08.html)
+- [[백준 27866] 문자와 문자열](https://sbi1024.github.io/CodingTest/java-ex/post-09.html)
+- [[백준 2743] 단어 길이 재기](https://sbi1024.github.io/CodingTest/java-ex/post-10.html)
+- [[백준 9086] 문자열](https://sbi1024.github.io/CodingTest/java-ex/post-11.html)
+- [[백준 2675] 문자열 반복](https://sbi1024.github.io/CodingTest/java-ex/post-12.html)
+- [[백준 1152] 단어의 개수](https://sbi1024.github.io/CodingTest/java-ex/post-13.html)
+- [[백준 2908] 상수](https://sbi1024.github.io/CodingTest/java-ex/post-14.html)
+- [[백준 5622] 다이얼](https://sbi1024.github.io/CodingTest/java-ex/post-15.html)
+- [[백준 11718] 그대로 출력하기](https://sbi1024.github.io/CodingTest/java-ex/post-16.html)
+- [[백준 25083] 새싹](https://sbi1024.github.io/CodingTest/java-ex/post-17.html)
 <!-- BLOG-POST-LIST:END -->
  
 ---
