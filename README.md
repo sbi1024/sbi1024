@@ -46,7 +46,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🏆
+### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 ☁️
 | 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 🔥 | 𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕|
 | ------------- | :-----------: |
 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> |
