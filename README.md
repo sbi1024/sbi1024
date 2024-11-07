@@ -1,4 +1,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbi1024)](https://solved.ac/sbi1024)
 
 ### 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒 🔗  
 <span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github" width="50" heigth = "50" /></a></span>
@@ -6,6 +7,8 @@
 <span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/5aec97fd-8573-441a-a8fa-19e47ce5e2d9" alt="free-icon-kakao" width="50" heigth = "50"></a></span>
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a></span>
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
+
+
 
 ### 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨
 <details>
@@ -49,39 +52,27 @@
 
 ---
 
-### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
-<table style="border:none; border-collapse: collapse;">
-  <tr>
-    <td colspan='2' >𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
-    <td colspan='2' >𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
-  </tr>
+### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝑇𝑒𝑐𝑘 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
+<table>
   <tr>
     <td>𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
     <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
-    <td>𝑆𝑄𝐿𝐷</td>
-    <td>𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
   </tr>
   <tr>
     <td >𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
     <td ><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
-    <td >𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
-    <td >𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
   </tr>
   <tr>
     <td>𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
     <td><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
-    <td>𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
-    <td>𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
   </tr>
   <tr>
     <td>𝐷𝑒𝑣𝑂𝑝𝑠</td>
     <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2'>🔥 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🔥</td>
   </tr>
   <tr>
     <td>𝑇𝑜𝑜𝑙</td>
     <td><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
-    <td colspan='2' rowspan='3'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
   </tr>
   <tr>
     <td>𝑂𝑠</td>
