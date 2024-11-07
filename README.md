@@ -61,19 +61,19 @@
     <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
     <td style="border: none; width: 100px;">𝑆𝑄𝐿𝐷</td>
-    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔🏆</td>
+    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
     <td style="border: none;">𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
-    <td style="border: none;">𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ📚</td>
+    <td style="border: none;">𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
     <td style="border: none;">𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
-    <td style="border: none;">𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟⏰</td>
+    <td style="border: none;">𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐷𝑒𝑣𝑂𝑝𝑠</td>
@@ -83,17 +83,15 @@
   <tr>
     <td style="border: none; font-weight: bold;">𝑇𝑜𝑜𝑙</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
-    <td colspan='2'style="border: none;"></td>
+    <td colspan='2' rowspan='3'style="border: none;"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/></td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝑂𝑠</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
-    <td colspan='2'style="border: none;"></td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐸𝑡𝑐</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=md"/></td>
-    <td colspan='2'style="border: none;"></td>
   </tr>
 </table>
 
