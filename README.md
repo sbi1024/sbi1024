@@ -53,20 +53,20 @@
   <tr>
     <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
-    <td style="border: none;">𝑆𝑄𝐿𝐷</td>
-    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔🏆</td>
+    <td style="border: none; width: 100px;">𝑆𝑄𝐿𝐷</td>
+    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
-    <td style="border: none;">𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙 2</td>
-    <td style="border: none;">𝑆𝑐ℎ𝑒𝑑𝑢𝑙𝑒𝑑 𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ📚</td>
+    <td style="border: none;">𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
+    <td style="border: none;">𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
-    <td style="border: none;">𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔</td>
-    <td style="border: none;">𝑃𝑙𝑎𝑛𝑛𝑒𝑑 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒 ⏰</td>
+    <td style="border: none;">𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
+    <td style="border: none;">𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝐷𝑒𝑣𝑂𝑝𝑠</td>
