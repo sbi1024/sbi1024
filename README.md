@@ -46,39 +46,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 ☕ && 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
-| 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘 | 𝑆𝑡𝑎𝑡𝑠 |
-| ------------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=350px/> | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis" width=500px/> |
-| <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=350px/> |  <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes,nginx,aws" width=500px/> | 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=350px/> |  <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim,apple,windows,linux,md" width=500px/> |
-| <img src="https://render.gitanimals.org/farms/sbi1024" width=350px/> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=180px height=180px /> |
-
-
-
-<!-- ### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 ☕
-| 𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑦 | 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠|
-|-----------|-------------|
-| 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch" /> |
-| 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
-| 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 | <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" /> |
-| 𝐷𝑒𝑣𝑂𝑝𝑠 | <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws" /> |
-| 𝑇𝑜𝑜𝑙 | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
-| 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,windows,linux" /> |
-| 𝐸𝑇𝐶 | <img src="https://skillicons.dev/icons?i=md" /> |
-| 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=120px height=120px /> |
-
----
-
-### 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
-| 𝑁𝑎𝑚𝑒 | 𝐼𝑚𝑎𝑔𝑒 |
-|-----------|-------------|
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=400px/> |
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=400px/>|
-| 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=400px/>|
-| 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="50px"> |<img src="https://render.gitanimals.org/farms/sbi1024" width=400px/>| -->
-
-
+### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 ☕  𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
+| 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 | 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 |
+| ------------- | :-----------: |
+| <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> |
+| <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=450px/> |  <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes" width=100%/> | 
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/> |  <img src="https://skillicons.dev/icons?i=nginx,idea,vscode,notion,postman,vim,apple,windows,linux,md" width=100%/> |
+| <img src="https://render.gitanimals.org/farms/sbi1024" width=450px/> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=180%/> |
 
 
 
