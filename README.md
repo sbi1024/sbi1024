@@ -76,7 +76,7 @@
   <tr>
     <td>𝐷𝑒𝑣𝑂𝑝𝑠</td>
     <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2'>𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🔥</td>
+    <td colspan='2'>🔥 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🔥</td>
   </tr>
   <tr>
     <td>𝑇𝑜𝑜𝑙</td>
