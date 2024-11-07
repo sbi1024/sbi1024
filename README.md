@@ -46,8 +46,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 ☕  𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
-| 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 | 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 |
+### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🏆
+| 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 🔥 | 𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕|
 | ------------- | :-----------: |
 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> |
 | <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=450px/> |  <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes" width=100%/> | 
