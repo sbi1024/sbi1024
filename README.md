@@ -33,16 +33,26 @@
 
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">1. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">2. [백준 27866] 문자와 문자열 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">3. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">4. [백준 9086] 문자열 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-12.html">5. [백준 2675] 문자열 반복 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-13.html">6. [백준 1152] 단어의 개수 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-14.html">7. [백준 2908] 상수 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-15.html">8. [백준 5622] 다이얼 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-16.html">9. [백준 11718] 그대로 출력하기 (Wed Nov 06 2024)</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-17.html">10. [백준 25083] 새싹 (Wed Nov 06 2024)</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">1. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">2. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">3. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">4. [백준 9086] 문자열 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-12.html">5. [백준 2675] 문자열 반복 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-13.html">6. [백준 1152] 단어의 개수 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-14.html">7. [백준 2908] 상수 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-15.html">8. [백준 5622] 다이얼 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-16.html">9. [백준 11718] 그대로 출력하기 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-17.html">10. [백준 25083] 새싹 (Wed Nov 06 2024) [𝑃𝑟𝑒𝑣𝑖𝑒𝑤.. &lt;hr /&gt;
+&lt;p&gt;...]</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
