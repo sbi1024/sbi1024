@@ -57,7 +57,7 @@
 | 𝑇𝑜𝑜𝑙 | <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim" /> |
 | 𝑂𝑆 | <img src="https://skillicons.dev/icons?i=apple,windows,linux" /> |
 | 𝐸𝑇𝐶 | <img src="https://skillicons.dev/icons?i=md" /> |
-| 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=100% /> |
+| 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=120px height=120px /> |
 
 ---
 
