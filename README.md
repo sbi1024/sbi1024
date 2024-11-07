@@ -64,7 +64,7 @@
 ### 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔 🔥
 | 𝑁𝑎𝑚𝑒 | 𝐼𝑚𝑎𝑔𝑒 |
 |-----------|-------------|
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> |
-| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=450px/>|
+| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠 | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=400px/> |
+| 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑟𝑒𝑎𝑘 |<img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF" width=400px/>|
 | 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝐺𝑟𝑎𝑝ℎ |<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/>|
-| 𝐴𝑛𝑖𝑚𝑎𝑙𝑠 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="50px"> |<img src="https://render.gitanimals.org/farms/sbi1024" width=450/>|
+| 𝐴𝑛𝑖𝑚𝑎𝑙𝑠 𝐹𝑎𝑟𝑚 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdjYnlibmJhaHAxeG5mdHlkOTJ1cHNxbnpndDA4bnFlNXJ5ZjBteiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UN2IJoaRjKfyQnrNBo/giphy.gif" width="50px"> |<img src="https://render.gitanimals.org/farms/sbi1024" width=450px/>|
