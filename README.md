@@ -21,8 +21,6 @@
  ➢ 𝑀𝑎𝑘𝑒 𝑡ℎ𝑒 𝑚𝑜𝑠𝑡 𝑜𝑓 𝑡ℎ𝑖𝑠 𝑚𝑜𝑚𝑒𝑛𝑡 𝑎𝑛𝑑 𝑒𝑛𝑗𝑜𝑦 𝑒𝑣𝑒𝑟𝑦 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 𝑖𝑡 𝑏𝑟𝑖𝑛𝑔𝑠!  </br>
  ➢ 𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒. </br>
  
- 
- 
 ---
 
 ### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%">
@@ -78,7 +76,7 @@
   <tr>
     <td>𝐷𝑒𝑣𝑂𝑝𝑠</td>
     <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2' >🤖𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚🤖 </td>
+    <td colspan='2'>𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🔥</td>
   </tr>
   <tr>
     <td>𝑇𝑜𝑜𝑙</td>
@@ -94,81 +92,3 @@
     <td><img src="https://skillicons.dev/icons?i=md"/></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-<!-- 
-
-<table style="border:none; border-collapse: collapse;">
-  <tr>
-    <td colspan='2' >𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
-    <td colspan='2' >𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
-  </tr>
-  <tr>
-    <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
-    <td ><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
-    <td style="border: none; width: 100px;">𝑆𝑄𝐿𝐷</td>
-    <td >𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
-  </tr>
-  <tr>
-    <td >𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
-    <td ><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
-    <td >𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
-    <td >𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
-  </tr>
-  <tr>
-    <td >𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
-    <td ><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
-    <td >𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
-    <td >𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
-  </tr>
-  <tr>
-    <td >𝐷𝑒𝑣𝑂𝑝𝑠</td>
-    <td ><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2' >🤖 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🤖 </td>
-  </tr>
-  <tr>
-    <td >𝑇𝑜𝑜𝑙</td>
-    <td ><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
-    <td colspan='2' rowspan='3'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
-  </tr>
-  <tr>
-    <td >𝑂𝑠</td>
-    <td ><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
-  </tr>
-  <tr>
-    <td >𝐸𝑡𝑐</td>
-    <td ><img src="https://skillicons.dev/icons?i=md"/></td>
-  </tr>
-</table>
-
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/>
-// [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
-
-### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
-| 𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ | 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 🔥 |
-| :-------------: | :-----------: |
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> |
-| <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes" width=100%/> | <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi%20theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF&currStreakNum=1E90FF" width=450px/> |
-| <img src="https://skillicons.dev/icons?i=nginx,idea,vscode,notion,postman,vim,apple,windows,linux,md" width=100%/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/> | 
-| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=180%/> | <img src="https://render.gitanimals.org/farms/sbi1024" width=450px/> |
-
-
-
-➢ 𝐵𝑎𝑐𝑘𝑒𝑛𝑑  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></br> 
-➢ 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 <img src="https://skillicons.dev/icons?i=mysql,redis"/></br> 
-➢ 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></br> 
-➢ 𝐷𝑒𝑣𝑂𝑝𝑠   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></br>
-➢ 𝑇𝑜𝑜𝑙      <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></br> 
-➢ 𝑂𝑠       <img src="https://skillicons.dev/icons?i=apple,windows,linux"/></br> 
-➢ 𝐸𝑡𝑐      <img src="https://skillicons.dev/icons?i=md"/></br> 
-➢ 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/></br>
--->
