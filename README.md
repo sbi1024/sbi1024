@@ -56,30 +56,30 @@
 <table>
   <tr>
     <td>𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch&theme=light"/></td>
   </tr>
   <tr>
     <td >𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
-    <td ><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
+    <td ><img src="https://skillicons.dev/icons?i=mysql,redis&theme=light"/></td>
   </tr>
   <tr>
     <td>𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
-    <td><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap&theme=light"/></td>
   </tr>
   <tr>
     <td>𝐷𝑒𝑣𝑂𝑝𝑠</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws&theme=light"/></td>
   </tr>
   <tr>
     <td>𝑇𝑜𝑜𝑙</td>
-    <td><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
+    <td><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim&theme=light"/></td>
   </tr>
   <tr>
     <td>𝑂𝑠</td>
-    <td><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
+    <td><img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=light"/></td>
   </tr>
   <tr>
     <td>𝐸𝑡𝑐</td>
-    <td><img src="https://skillicons.dev/icons?i=md"/></td>
+    <td><img src="https://skillicons.dev/icons?i=md&theme=light"/></td>
   </tr>
 </table>
