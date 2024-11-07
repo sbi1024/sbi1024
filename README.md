@@ -54,44 +54,44 @@
 ### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
 <table style="border:none; border-collapse: collapse;">
   <tr>
-    <td colspan='2' style="border: none;">𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
-    <td colspan='2' style="border: none;">𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
+    <td colspan='2' >𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
+    <td colspan='2' >𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
   </tr>
   <tr>
-    <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
-    <td style="border: none; width: 100px;">𝑆𝑄𝐿𝐷</td>
-    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
+    <td>𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
+    <td>𝑆𝑄𝐿𝐷</td>
+    <td>𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
-    <td style="border: none;">𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
-    <td style="border: none;">𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
+    <td >𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
+    <td ><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
+    <td >𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
+    <td >𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
-    <td style="border: none;">𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
-    <td style="border: none;">𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
+    <td>𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
+    <td><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
+    <td>𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
+    <td>𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝐷𝑒𝑣𝑂𝑝𝑠</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2' style="border: none;">🤖 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🤖 </td>
+    <td>𝐷𝑒𝑣𝑂𝑝𝑠</td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
+    <td colspan='2' >🤖𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚🤖 </td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝑇𝑜𝑜𝑙</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
-    <td colspan='2' rowspan='3'style="border: none;"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
+    <td>𝑇𝑜𝑜𝑙</td>
+    <td><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
+    <td colspan='2' rowspan='3'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝑂𝑠</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
+    <td>𝑂𝑠</td>
+    <td><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">𝐸𝑡𝑐</td>
-    <td style="border: none;"><img src="https://skillicons.dev/icons?i=md"/></td>
+    <td>𝐸𝑡𝑐</td>
+    <td><img src="https://skillicons.dev/icons?i=md"/></td>
   </tr>
 </table>
 
@@ -102,6 +102,51 @@
 
 
 <!-- 
+
+<table style="border:none; border-collapse: collapse;">
+  <tr>
+    <td colspan='2' >𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
+    <td colspan='2' >𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
+    <td ><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
+    <td style="border: none; width: 100px;">𝑆𝑄𝐿𝐷</td>
+    <td >𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔 🏆</td>
+  </tr>
+  <tr>
+    <td >𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
+    <td ><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
+    <td >𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙2</td>
+    <td >𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ 📚</td>
+  </tr>
+  <tr>
+    <td >𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
+    <td ><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
+    <td >𝐼𝑇 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟</td>
+    <td >𝑛𝑒𝑥𝑡 𝑦𝑒𝑎𝑟 ⏰</td>
+  </tr>
+  <tr>
+    <td >𝐷𝑒𝑣𝑂𝑝𝑠</td>
+    <td ><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
+    <td colspan='2' >🤖 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🤖 </td>
+  </tr>
+  <tr>
+    <td >𝑇𝑜𝑜𝑙</td>
+    <td ><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
+    <td colspan='2' rowspan='3'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
+  </tr>
+  <tr>
+    <td >𝑂𝑠</td>
+    <td ><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
+  </tr>
+  <tr>
+    <td >𝐸𝑡𝑐</td>
+    <td ><img src="https://skillicons.dev/icons?i=md"/></td>
+  </tr>
+</table>
+
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/>
 // [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
