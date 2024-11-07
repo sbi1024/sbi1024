@@ -20,4 +20,4 @@ jobs:
           title_max_length: 25
           description_max_length: 10
           max_post_count: 10
-          template: '<a href="$url">$counter. $title($date)</a>$newline'
+          template: '<li><a href="$url">$counter. $title ($date) ($description) ($randomEmoji) ($categories)</a></li>$newline'
