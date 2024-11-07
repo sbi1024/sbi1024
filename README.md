@@ -78,7 +78,7 @@
   <tr>
     <td style="border: none; font-weight: bold;">𝐷𝑒𝑣𝑂𝑝𝑠</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
-    <td colspan='2' rowspan='4'style="border: none;">𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🤖 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=400px/></td>
+    <td colspan='2' rowspan='4'style="border: none;">𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 🤖 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"width=350px/></td>
   </tr>
   <tr>
     <td style="border: none; font-weight: bold;">𝑇𝑜𝑜𝑙</td>
