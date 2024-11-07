@@ -21,3 +21,4 @@ jobs:
           description_max_length: 10
           max_post_count: 10
           template: '<li><a href="$url">$counter. $title ($date)</a></li>$newline'
+          date_format: UTC:ddd mmm dd yyyy
