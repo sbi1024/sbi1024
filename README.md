@@ -8,16 +8,16 @@
 <span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a></span>
 
 ### 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨
+<details>
+  <summary> 𝐶𝑙𝑖𝑐𝑘 𝑌𝑜𝑢 𝐻𝑎𝑝𝑝𝑦 🌈</summary>
+  
+  ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7) 
+</details>
  ➢ 𝐸𝑛𝑗𝑜𝑦 𝑡ℎ𝑖𝑠 𝑚𝑜𝑚𝑒𝑛𝑡!  </br>
  ➢ 𝐻𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠 𝑖𝑠 𝑎 𝑐ℎ𝑜𝑖𝑐𝑒.  </br>
  ➢ 𝐼 𝑐𝑎𝑛 𝑑𝑜 𝑖𝑡! 𝐼 𝑟𝑒𝑎𝑙𝑙𝑦 𝑐𝑎𝑛!  </br>
  ➢ 𝐷𝑜𝑛'𝑡 𝑚𝑖𝑠𝑠 𝑡ℎ𝑒 𝑠𝑚𝑎𝑙𝑙 𝑗𝑜𝑦𝑠.  </br>
  ➢ 𝑌𝑜𝑢'𝑟𝑒 𝑛𝑜𝑡 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒, 𝑦𝑜𝑢'𝑟𝑒 ℎ𝑎𝑝𝑝𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑦𝑜𝑢 𝑠𝑚𝑖𝑙𝑒. </br>
- <details>
-  <summary> 𝐶𝑙𝑖𝑐𝑘 𝑌𝑜𝑢 𝐻𝑎𝑝𝑝𝑦 🌈</summary>
-  
-  ![img](https://github.com/user-attachments/assets/e7e6577e-1508-44cb-85f6-d553abbe1dc7) 
-</details>
 
 ---
 
@@ -27,11 +27,8 @@
 ➢  𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑐𝑢𝑠𝑡𝑜𝑚 𝑡ℎ𝑒𝑚𝑒𝑠 𝑖𝑛 𝑖𝑇𝑒𝑟𝑚2 (𝑝𝑜𝑤𝑒𝑟𝑙𝑒𝑣𝑒𝑙10𝑘)! </br>
 ➢ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦, 𝐼 𝑑𝑜𝑛’𝑡 ℎ𝑎𝑣𝑒 𝑎𝑛𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑤𝑜𝑟𝑡ℎ 𝑠ℎ𝑜𝑤𝑐𝑎𝑠𝑖𝑛𝑔, 𝑏𝑢𝑡 𝐼’𝑙𝑙 𝑏𝑒 𝑠𝑡𝑎𝑟𝑡𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑠𝑜𝑜𝑛💧🌊🫧 </br>
+
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
-
-
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">1. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) 🟢</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">2. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) 🟢</a></li>
@@ -46,6 +43,50 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
+<table style="border:none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; width: 100px; font-weight: bold;">➢ 𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝐷𝑒𝑣𝑂𝑝𝑠</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝑇𝑜𝑜𝑙</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝑂𝑠</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
+  </tr>
+  <tr>
+    <td style="border: none; font-weight: bold;">➢ 𝐸𝑡𝑐</td>
+    <td style="border: none;"><img src="https://skillicons.dev/icons?i=md"/></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
+
 ### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
 | 𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ | 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 🔥 |
 | :-------------: | :-----------: |
@@ -56,8 +97,12 @@
 
 
 
-
-
-
-
-
+➢ 𝐵𝑎𝑐𝑘𝑒𝑛𝑑  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></br> 
+➢ 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 <img src="https://skillicons.dev/icons?i=mysql,redis"/></br> 
+➢ 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></br> 
+➢ 𝐷𝑒𝑣𝑂𝑝𝑠   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></br>
+➢ 𝑇𝑜𝑜𝑙      <img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></br> 
+➢ 𝑂𝑠       <img src="https://skillicons.dev/icons?i=apple,windows,linux"/></br> 
+➢ 𝐸𝑡𝑐      <img src="https://skillicons.dev/icons?i=md"/></br> 
+➢ 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/></br>
+-->
