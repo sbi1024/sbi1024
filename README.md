@@ -33,17 +33,16 @@
 
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START -->
-- [[백준 10811] 바구니 뒤집기](https://sbi1024.github.io/CodingTest/java-ex/post-08.html)
-- [[백준 27866] 문자와 문자열](https://sbi1024.github.io/CodingTest/java-ex/post-09.html)
-- [[백준 2743] 단어 길이 재기](https://sbi1024.github.io/CodingTest/java-ex/post-10.html)
-- [[백준 9086] 문자열](https://sbi1024.github.io/CodingTest/java-ex/post-11.html)
-- [[백준 2675] 문자열 반복](https://sbi1024.github.io/CodingTest/java-ex/post-12.html)
-- [[백준 1152] 단어의 개수](https://sbi1024.github.io/CodingTest/java-ex/post-13.html)
-- [[백준 2908] 상수](https://sbi1024.github.io/CodingTest/java-ex/post-14.html)
-- [[백준 5622] 다이얼](https://sbi1024.github.io/CodingTest/java-ex/post-15.html)
-- [[백준 11718] 그대로 출력하기](https://sbi1024.github.io/CodingTest/java-ex/post-16.html)
-- [[백준 25083] 새싹](https://sbi1024.github.io/CodingTest/java-ex/post-17.html)
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">1 Wed Nov 06 2024 12:00 AM [백준 10811] 바구니 뒤집기</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">2 Wed Nov 06 2024 12:00 AM [백준 27866] 문자와 문자열</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">3 Wed Nov 06 2024 12:00 AM [백준 2743] 단어 길이 재기</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">4 Wed Nov 06 2024 12:00 AM [백준 9086] 문자열</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-12.html">5 Wed Nov 06 2024 12:00 AM [백준 2675] 문자열 반복</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-13.html">6 Wed Nov 06 2024 12:00 AM [백준 1152] 단어의 개수</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-14.html">7 Wed Nov 06 2024 12:00 AM [백준 2908] 상수</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-15.html">8 Wed Nov 06 2024 12:00 AM [백준 5622] 다이얼</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-16.html">9 Wed Nov 06 2024 12:00 AM [백준 11718] 그대로 출력하기</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-17.html">10 Wed Nov 06 2024 12:00 AM [백준 25083] 새싹</a></li>
 <!-- BLOG-POST-LIST:END -->
  
 ---
