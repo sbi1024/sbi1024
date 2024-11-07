@@ -30,53 +30,63 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">1. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">2. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">3. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">4. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">5. [백준 9086] 문자열 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-12.html">6. [백준 2675] 문자열 반복 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-13.html">7. [백준 1152] 단어의 개수 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-14.html">8. [백준 2908] 상수 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-15.html">9. [백준 5622] 다이얼 (Wed Nov 06 2024) 🟢</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-16.html">10. [백준 11718] 그대로 출력하기 (Wed Nov 06 2024) 🟢</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">1. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">2. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">3. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">4. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">5. [백준 9086] 문자열 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-12.html">6. [백준 2675] 문자열 반복 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-13.html">7. [백준 1152] 단어의 개수 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-14.html">8. [백준 2908] 상수 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-15.html">9. [백준 5622] 다이얼 (Wed Nov 06 2024) ⚡</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-16.html">10. [백준 11718] 그대로 출력하기 (Wed Nov 06 2024) ⚡</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝑇𝑒𝑐𝑘 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
-<table style="border:none; border-collapse: collapse; width: 100%;">
+### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
+<table style="border:none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; width: 100px; font-weight: bold;">➢ 𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
+    <td colspan='2' style="border: none;">𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕ </td>
+    <td colspan='2' style="border: none;">𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 🥇</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 100px; font-weight: bold;">𝐵𝑎𝑐𝑘𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch"/></td>
+    <td style="border: none;">𝑆𝑄𝐿𝐷</td>
+    <td style="border: none;">𝑂𝑏𝑡𝑎𝑖𝑛𝑖𝑛𝑔🏆</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
+    <td style="border: none; font-weight: bold;">𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=mysql,redis"/></td>
+    <td style="border: none;">𝐿𝑖𝑛𝑢𝑥 𝑀𝑎𝑠𝑡𝑒𝑟 𝐿𝑒𝑣𝑒𝑙 2</td>
+    <td style="border: none;">𝑆𝑐ℎ𝑒𝑑𝑢𝑙𝑒𝑑 𝑒𝑥𝑎𝑚 𝑛𝑒𝑥𝑡 𝑚𝑜𝑛𝑡ℎ📚</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
+    <td style="border: none; font-weight: bold;">𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=html,js,css,bootstrap"/></td>
+    <td style="border: none;">𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝐼𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔</td>
+    <td style="border: none;">𝑃𝑙𝑎𝑛𝑛𝑒𝑑 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒 ⏰</td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝐷𝑒𝑣𝑂𝑝𝑠</td>
+    <td style="border: none; font-weight: bold;">𝐷𝑒𝑣𝑂𝑝𝑠</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,nginx,aws"/></td>
+    <td colspan='2'style="border: none;"></td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝑇𝑜𝑜𝑙</td>
+    <td style="border: none; font-weight: bold;">𝑇𝑜𝑜𝑙</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=idea,vscode,notion,postman,vim"/></td>
+    <td colspan='2'style="border: none;"></td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝑂𝑠</td>
+    <td style="border: none; font-weight: bold;">𝑂𝑠</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=apple,windows,linux"/></td>
+    <td colspan='2'style="border: none;"></td>
   </tr>
   <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝐸𝑡𝑐</td>
+    <td style="border: none; font-weight: bold;">𝐸𝑡𝑐</td>
     <td style="border: none;"><img src="https://skillicons.dev/icons?i=md"/></td>
-  </tr>
-  <tr>
-    <td style="border: none; font-weight: bold;">➢ 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚</td>
-    <td style="border: none;"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/></td>
+    <td colspan='2'style="border: none;"></td>
   </tr>
 </table>
 
@@ -85,7 +95,11 @@
 
 
 
+
 <!-- 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024"/>
+// [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-custom&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-custom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbi1024&bg_color=1a2a3b,cfe3f5,eff7fb,fafafa&repo=programmers-auto&show_icons=true&hide_border=true)](https://github.com/sbi1024/programmers-auto)
 
