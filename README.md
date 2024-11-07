@@ -48,11 +48,11 @@
 ---
 ### 𝐶𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 🌐
 | 𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 🔥 | 𝑇𝑒𝑐𝑘 𝑆𝑡𝑎𝑐𝑘𝑠 ☕|
-| ------------- | :-----------: |
-| <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> |
-| <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi%20theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF&currStreakNum=1E90FF" width=450px/> |  <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes" width=100%/> | 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/> |  <img src="https://skillicons.dev/icons?i=nginx,idea,vscode,notion,postman,vim,apple,windows,linux,md" width=100%/> |
-| <img src="https://render.gitanimals.org/farms/sbi1024" width=450px/> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=180%/> |
+| :-------------: | :-----------: |
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,grafana,kafka,elasticsearch,mysql,redis,aws" width=100%/> | <img src="https://github-readme-stats.vercel.app/api?username=sbi1024&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&text_color=1E90FF&title_color=1E90FF&icon_color=1E90FF" width=450px/> |
+| <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,git,github,githubactions,jenkins,docker,kubernetes" width=100%/> | <img src="https://streak-stats.demolab.com/?user=sbi1024&theme=holi%20theme&show_icons=true&locale=e&date_format=%5BY.%5Dn.j&mode=weekly&background=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&sideNums=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=1E90FF&currStreakNum=1E90FF" width=450px/> |
+| <img src="https://skillicons.dev/icons?i=nginx,idea,vscode,notion,postman,vim,apple,windows,linux,md" width=100%/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbi1024&show_icons=true&theme=github-dark&bg_color=transparent&hide_border=true" width=450px/> | 
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi1024" witdh=180%/> | <img src="https://render.gitanimals.org/farms/sbi1024" width=450px/> |
 
 
 
