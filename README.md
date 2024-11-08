@@ -38,16 +38,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">4. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">5. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">6. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [시간이 어느덧 빠르게 흘러 벌써 11월이 다가...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">7. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">8. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">9. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]✨</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">10. [백준 9086] 문자열 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]✨</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">4. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">5. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">6. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [시간이 어느덧 빠르게 흘러 벌써 11월이 다가...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">7. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">8. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-10.html">9. [백준 2743] 단어 길이 재기 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-11.html">10. [백준 9086] 문자열 (Wed Nov 06 2024) [https://www.acmicpc.net/p...]🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
