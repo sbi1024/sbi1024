@@ -26,7 +26,7 @@
  
 ---
 
-### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%">
+### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="6%">
 ➢  𝐼’𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
 ➢  𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑜𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑎𝑛𝑑 𝐵𝑒𝑎𝑘𝑗𝑜𝑜𝑛 </br>
 ➢  𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡: 𝐽𝑎𝑣𝑎, 𝑆𝑝𝑟𝑖𝑛𝑔, 𝐿𝑖𝑛𝑢𝑥, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </br>
@@ -80,6 +80,6 @@
   </tr>
   <tr>
     <td>𝐸𝑡𝑐</td>
-    <td><img src="https://skillicons.dev/icons?i=md&theme=light"/></td>
+    <td><img src="https://skillicons.dev/icons?i=md,stackoverflow&theme=light"/></td>
   </tr>
 </table>
