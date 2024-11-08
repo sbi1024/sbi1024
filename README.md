@@ -51,11 +51,11 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [미리보기: 최대값을 찾는문제는 가장...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">4. [백준 10798] 세로읽기 (Fri Nov 08 2024) [미리보기: 세로로 읽는법은 단순히 열...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">5. [백준 2563] 색종이 (Fri Nov 08 2024) [미리보기: 색종이가 존재하는 부분을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [미리보기:] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [미리보기: char 타입의 변수 -...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [미리보기: replace 메소드를 통...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316] 그룹 단어 체커 (Thu Nov 07 2024) [미리보기: char 타입의 변수 -...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">8. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [미리보기: 깃허브 꾸미는게 세상에서...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [문제도현이는 바구니를 총 N개 가지고...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [문제단어 S와 정수 i가 주어졌을 때...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [미리보기: 지정된 범위의 값을 어떻게...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [미리보기:] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
