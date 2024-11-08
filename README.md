@@ -46,57 +46,25 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [
-문제
-인하대학교 컴퓨터공학과를 졸업하기 위해서는, 전공평점이 3.3 이상이거나 졸업고사를 통과해야 한다. 그런데 아뿔싸, 치훈이는 깜빡하고 졸업고사를 응시하지 않았다는 사실을 깨달았다! 치훈이의 전공평점을 계산해주는 프로그램을 작성해보자. 전공평점은 전공과목별 &lpar;학점 × 과목평점&rpar;의 합을 학점의 총합으로 나눈 값이다. 인하대학교 컴퓨터공학과의 등급에 따른 과목평점은 다음 표와 같다.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [
-문제
-N*M크기의 두 행렬 A와 B가 주어졌을 때, 두 행렬을 더하는 프로그램을 작성하시오.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [
-문제
-&amp;lt;그림 1&amp;gt;과 같이 9×9 격자판에 쓰여진 81개의 자연수 또는 0이 주어질 때, 이들 중 최댓값을 찾고 그 최댓값이 몇 행 몇 열에 위치한 수인지 구하는 프로그램을 작성하시오.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">4. [백준 10798] 세로읽기 (Fri Nov 08 2024) [
-문제
-아직 글을 모르는 영석이가 벽에 걸린 칠판에 자석이 붙어있는 글자들을 붙이는 장난감을 가지고 놀고 있다. 이 장난감에 있는 글자들은 영어 대문자 ‘A’부터 ‘Z’, 영어 소문자 ‘a’부터 ‘z’, 숫자 ‘0’부터 ‘9’이다.영석이는 칠판에 글자들을 수평으로 일렬로 붙여서 단어를 만든다. 다시 그 아래쪽에 글자들을 붙여서 또 다른 단어를 만든다. 이런 식으로 다섯 개의 단어를 만든다. 아래 그림 1은 영석이가 칠판에 붙여 만든 단어들의 예이다.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">5. [백준 2563] 색종이 (Fri Nov 08 2024) [
-문제
-가로, 세로의 크기가 각각 100인 정사각형 모양의 흰색 도화지가 있다. 이 도화지 위에 가로, 세로의 크기가 각각 10인 정사각형 모양의 검은색 색종이를 색종이의 변과 도화지의 변이 평행하도록 붙인다. 이러한 방식으로 색종이를 한 장 또는 여러 장 붙인 후 색종이가 붙은 검은 영역의 넓이를 구하는 프로그램을 작성하시오. 예를 들어 흰색 도화지 위에 세 장의 검은색 색종이를 그림과 같은 모양으로 붙였다면 검은색 영역의 넓이는 260이 된다.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [
-문제
-예전에는 운영체제에서 크로아티아 알파벳을 입력할 수가 없었다. 따라서, 다음과 같이 크로아티아 알파벳을 변경해서 입력했다. 예를 들어, ljes=njak은 크로아티아 알파벳 6개&lpar;lj, e, š, nj, a, k&rpar;로 이루어져 있다. 단어가 주어졌을 때, 몇 개의 크로아티아 알파벳으로 이루어져 있는지 출력한다. dž는 무조건 하나의 알파벳으로 쓰이고, d와 ž가 분리된 것으로 보지 않는다. lj와 nj도 마찬가지이다. 위 목록에 없는 알파벳은 한 글자씩 센다.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [
-문제
-그룹 단어란 단어에 존재하는 모든 문자에 대해서, 각 문자가 연속해서 나타나는 경우만을 말한다. 예를 들면, ccazzzzbb는 c, a, z, b가 모두 연속해서 나타나고, kin도 k, i, n이 연속해서 나타나기 때문에 그룹 단어이지만, aabbbccb는 b가 떨어져서 나타나기 때문에 그룹 단어가 아니다. 단어 N개를 입력으로 받아 그룹 단어의 개수를 출력하는 프로그램을 작성하시오.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">8. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [
-시간이 어느덧 빠르게 흘러 벌써 11월이 다가왔다. 사실 이때즈음이면 스프링 고급편 강의 다듣고, 활용편 듣고 있을줄 알았는데 어찌나 하기싫어서 온몸 비틀기로 다른걸 하면서 시간을 보내고 있는것인지 새삼 조금 후회된다. 자 그래서 강의를 안듣고 무엇을하며 시간을 보냈냐면, github readme 꾸미기에 진심이 되어버렸다…나도 이게 왜 진심으로 열심히 꾸미고 있는건지는 모른다.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [
-문제
-도현이는 바구니를 총 N개 가지고 있고, 각각의 바구니에는 1번부터 N번까지 번호가 순서대로 적혀져 있다.바구니는 일렬로 놓여져 있고, 가장 왼쪽 바구니를 1번째 바구니, 그 다음 바구니를 2번째 바구니, …, 가장 오른쪽 바구니를 N번째 바구니라고 부른다. 도현이는 앞으로 M번 바구니의 순서를 역순으로 만들려고 한다. 도현이는 한 번 순서를 역순으로 바꿀 때, 순서를 역순으로 만들 범위를 정하고, 그 범위에 들어있는 바구니의 순서를 역순으로 만든다. 바구니의 순서를 어떻게 바꿀지 주어졌을 때, M번 바구니의 순서를 역순으로 만든 다음, 바구니에 적혀있는 번호를 가장 왼쪽 바구니부터 출력하는 프로그램을 작성하시오.
-
-] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [
-문제
-단어 S와 정수 i가 주어졌을 때, S의 i번째 글자를 출력하는 프로그램을 작성하시오.
-입력
-첫째 줄에 영어 소문자와 대문자로만 이루어진 단어 S가 주어진다. 단어의 길이는 최대 1\,000이다. 둘째 줄에 정수 i가 주어진다. &lpar;1 &amp;lt;= i &amp;lt;= |S|&rpar;
-
-] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [문제
+인하대학교 컴퓨터공학과를 졸업하...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [문제
+N*M크기의 두 행렬 A와 B가...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [문제
+&amp;lt;그림 1&amp;gt;과 같이...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">4. [백준 10798] 세로읽기 (Fri Nov 08 2024) [문제
+아직 글을 모르는 영석이가 벽에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">5. [백준 2563] 색종이 (Fri Nov 08 2024) [문제
+가로, 세로의 크기가 각각 10...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [문제
+예전에는 운영체제에서 크로아티아...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [문제
+그룹 단어란 단어에 존재하는 모...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">8. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [시간이 어느덧 빠르게 흘러 벌써 11...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [문제
+도현이는 바구니를 총 N개 가지...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [문제
+단어 S와 정수 i가 주어졌을...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
