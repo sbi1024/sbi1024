@@ -20,5 +20,8 @@ jobs:
           title_max_length: 20
           description_max_length: 15
           max_post_count: 10
-          template: '<li><a href="$url">$counter. $title ($date) [$description] 🦋</a></li>$newline'
+          # template: '<li><a href="$url">$counter. $title ($date) [$description] 🦋</a></li>$newline'
+          template: '<li><a href="$url">$counter. $title ($date) [$description.replace("\n", " ")] 🦋</a></li>$newline'
+
+
           date_format: UTC:ddd mmm dd yyyy
