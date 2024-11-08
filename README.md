@@ -46,16 +46,25 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [백준 문제링크] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [백준 문제링크] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">4. [백준 10798] 세로읽기 (Fri Nov 08 2024) [백준 문제링크] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">5. [백준 2563] 색종이 (Fri Nov 08 2024) [백준 문제링크] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [백준 문제링크] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [백준 문제링크] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">1. [백준 25206] 너의 평점은 (Fri Nov 08 2024) [문제
+인하대학교 컴퓨터공학과를 졸업하기 위해서...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">2. [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [문제
+N*M크기의 두 행렬 A와 B가 주어졌을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">3. [백준 2566] 최댓값 (Fri Nov 08 2024) [문제
+&amp;lt;그림 1&amp;gt;과 같이 9×9 격...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">4. [백준 10798] 세로읽기 (Fri Nov 08 2024) [문제
+아직 글을 모르는 영석이가 벽에 걸린 칠...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">5. [백준 2563] 색종이 (Fri Nov 08 2024) [문제
+가로, 세로의 크기가 각각 100인 정사...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">6. [백준 2941] 크로아티아 알파벳 (Thu Nov 07 2024) [문제
+예전에는 운영체제에서 크로아티아 알파벳을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316]  그룹 단어 체커 (Thu Nov 07 2024) [문제
+그룹 단어란 단어에 존재하는 모든 문자에...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">8. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [시간이 어느덧 빠르게 흘러 벌써 11월이 다가...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [문제
+도현이는 바구니를 총 N개 가지고 있고,...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [문제
+단어 S와 정수 i가 주어졌을 때, S의...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
