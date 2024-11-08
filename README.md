@@ -55,7 +55,7 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-23.html">7. [백준 1316] 그룹 단어 체커 (Thu Nov 07 2024) [미리보기: char 타입의 변수 -...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Etc/diary/post-06.html">8. 이번주 강의 안들은 사람? 나야나. (Thu Nov 07 2024) [미리보기: 깃허브 꾸미는게 세상에서...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-08.html">9. [백준 10811] 바구니 뒤집기 (Wed Nov 06 2024) [미리보기: 지정된 범위의 값을 어떻게...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [미리보기:] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-09.html">10. [백준 27866] 문자와 문자열 (Wed Nov 06 2024) [미리보기: 주어진 인덱스의 위치의 문...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
