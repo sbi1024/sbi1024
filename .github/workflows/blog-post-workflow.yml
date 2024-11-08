@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://sbi1024.github.io/feed.xml,https://gist.github.com/sbi1024.atom"
           title_max_length: 25
-          description_max_length: 10
+          description_max_length: 25
           max_post_count: 10
           template: '<li><a href="$url">$counter. $title ($date) [$description]⚡</a></li>$newline'
           date_format: UTC:ddd mmm dd yyyy
