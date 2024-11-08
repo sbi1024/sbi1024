@@ -26,7 +26,7 @@
  
 ---
 
-### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="6%">
+### 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif?cid=790b7611vxkffaq8p5eo9kl5xcxvnpw82hi7xoinkgwkpbnp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="8%">
 <details>
   <summary> 𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠 𝑎𝑛𝑑 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑃𝑟𝑜𝑗𝑒𝑐𝑡 𝐴𝑐ℎ𝑖𝑒𝑣𝑒𝑚𝑒𝑛𝑡𝑠 🥇</summary>
   - 𝑆𝑄𝐿𝐷(𝐶𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛) ⇾  𝑂𝑏𝑡𝑎𝑖𝑛🎖️ (23.07.07)</br>
