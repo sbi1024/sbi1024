@@ -20,5 +20,5 @@ jobs:
           title_max_length: 25
           description_max_length: 25
           max_post_count: 10
-          template: '<li><a href="$url">$counter. $title ($date) [$description]⚡</a></li>$newline'
+          template: '<li><a href="$url">$counter. $title ($date) 𝑝𝑟𝑒𝑣𝑖𝑒𝑤✨[$description]⚡</a></li>$newline'
           date_format: UTC:ddd mmm dd yyyy
