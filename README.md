@@ -46,7 +46,7 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-30.html">1. JAVA [백준 2903] 중앙 이동... (Sat Nov 09 2024) [Preview : 한변의 길이를 공식...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-30.html">1. JAVA [백준 2903] 중앙 이동... (Sat Nov 09 2024) [Preview: 한변의 길이를 공식으...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">2. JAVA [백준 25206] 너의 평... (Fri Nov 08 2024) [Preview : P학점에 대한 처리...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">3. JAVA [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [Preview : 행과 열의 길이가...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">4. JAVA [백준 2566] 최댓값 (Fri Nov 08 2024) [Preview : 최대값을 찾는문제는...] 🦋</a></li>
