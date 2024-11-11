@@ -55,7 +55,7 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-37.html">7. JAVA [백준 2745] 진법변환 (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-38.html">8. JAVA [백준 11005] 진법변환... (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-39.html">9. JAVA [백준 1193] 분수찾기 (Mon Nov 11 2024) [Preview: 재 풀이 및 코드 분...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-01.html">10. 권한 및 그룹 설정 (Mon Nov 11 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-40.html">10. JAVA [백준 27323] 직사각형 (Mon Nov 11 2024) [Preview: 너무 간단한 문제라서...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
