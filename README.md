@@ -46,16 +46,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-31.html">1. JAVA [백준 2501] 약수 구하... (Sun Nov 10 2024) [Preview: 주어진 p의 약수는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Etc/diary/post-07.html">2. 깃꾸에 이어서 블로그 꾸미기 까지 (Sun Nov 10 2024) [Preview : 나 HTML/CSS...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-30.html">3. JAVA [백준 2903] 중앙 이동... (Sat Nov 09 2024) [Preview: 한변의 길이를 공식으...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-24.html">4. JAVA [백준 25206] 너의 평... (Fri Nov 08 2024) [Preview : P학점에 대한 처리...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-25.html">5. JAVA [백준 2738] 행렬 덧셈 (Fri Nov 08 2024) [Preview : 행과 열의 길이가...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-26.html">6. JAVA [백준 2566] 최댓값 (Fri Nov 08 2024) [Preview : 최대값을 찾는문제는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-27.html">7. JAVA [백준 10798] 세로읽기 (Fri Nov 08 2024) [Preview : 세로로 읽는법은 단...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-28.html">8. JAVA [백준 2563] 색종이 (Fri Nov 08 2024) [Preview : 색종이가 존재하는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-29.html">9. JAVA [백준 2720] 세탁소 사... (Fri Nov 08 2024) [Preview : 1달러가 100센트...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-22.html">10. JAVA [백준 2941] 크로아티아... (Thu Nov 07 2024) [Preview : replace 메소...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-31.html">1. JAVA [백준 2501] 약수 구하... (Mon Nov 11 2024) [Preview: 주어진 p의 약수는...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-32.html">2. JAVA [백준 9506] 약수들의... (Mon Nov 11 2024) [Preview: 완전수를 검증하기위해...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-33.html">3. JAVA [백준 1978] 소수찾기 (Mon Nov 11 2024) [Preview: 소수의 정의는, 1보...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-34.html">4. JAVA [백준 2581] 소수 (Mon Nov 11 2024) [Preview: 소수를 찾고 소수의...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-35.html">5. JAVA [백준 11653] 소인수분... (Mon Nov 11 2024) [Preview: 소인수 분해는 2부터...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-36.html">6. JAVA [백준 5086] 배수와 약... (Mon Nov 11 2024) [Preview: 1번과 2번의 값을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-37.html">7. JAVA [백준 2745] 진법변환 (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-38.html">8. JAVA [백준 11005] 진법변환... (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-39.html">9. JAVA [백준 1193] 분수찾기 (Mon Nov 11 2024) [Preview: 재 풀이 및 코드 분...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Etc/diary/post-07.html">10. 깃꾸에 이어서 블로그 꾸미기 까지 (Sun Nov 10 2024) [Preview : 나 HTML/CSS...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
