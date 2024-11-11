@@ -55,7 +55,7 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-37.html">7. JAVA [백준 2745] 진법변환 (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-38.html">8. JAVA [백준 11005] 진법변환... (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-39.html">9. JAVA [백준 1193] 분수찾기 (Mon Nov 11 2024) [Preview: 재 풀이 및 코드 분...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Etc/diary/post-07.html">10. 깃꾸에 이어서 블로그 꾸미기 까지 (Sun Nov 10 2024) [Preview : 나 HTML/CSS...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-01.html">10. 권한 및 그룹 설정 (Mon Nov 11 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
