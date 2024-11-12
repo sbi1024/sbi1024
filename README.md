@@ -46,16 +46,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-31.html">1. JAVA [백준 2501] 약수 구하... (Mon Nov 11 2024) [Preview: 주어진 p의 약수는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-32.html">2. JAVA [백준 9506] 약수들의... (Mon Nov 11 2024) [Preview: 완전수를 검증하기위해...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-33.html">3. JAVA [백준 1978] 소수찾기 (Mon Nov 11 2024) [Preview: 소수의 정의는, 1보...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-34.html">4. JAVA [백준 2581] 소수 (Mon Nov 11 2024) [Preview: 소수를 찾고 소수의...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-35.html">5. JAVA [백준 11653] 소인수분... (Mon Nov 11 2024) [Preview: 소인수 분해는 2부터...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-36.html">6. JAVA [백준 5086] 배수와 약... (Mon Nov 11 2024) [Preview: 1번과 2번의 값을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-37.html">7. JAVA [백준 2745] 진법변환 (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-38.html">8. JAVA [백준 11005] 진법변환... (Mon Nov 11 2024) [Preview: Integer 클래스...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-39.html">9. JAVA [백준 1193] 분수찾기 (Mon Nov 11 2024) [Preview: 재 풀이 및 코드 분...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-40.html">10. JAVA [백준 27323] 직사각형 (Mon Nov 11 2024) [Preview: 너무 간단한 문제라서...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-44.html">1. JAVA [백준 9063] 대지 (Tue Nov 12 2024) [Preview: min max를 구하...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-45.html">2. JAVA [백준 10101] 삼각형... (Tue Nov 12 2024) [Preview: 은근히 if else...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-46.html">3. JAVA [백준 5073] 삼각형과... (Tue Nov 12 2024) [Preview: 삼각형의 조건을 만족...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-47.html">4. JAVA [백준 14215] 세 막대 (Tue Nov 12 2024) [Preview: 삼각형의 가장 큰 변...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-31.html">5. JAVA [백준 2501] 약수 구하... (Mon Nov 11 2024) [Preview: 주어진 p의 약수는...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-32.html">6. JAVA [백준 9506] 약수들의... (Mon Nov 11 2024) [Preview: 완전수를 검증하기위해...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-33.html">7. JAVA [백준 1978] 소수찾기 (Mon Nov 11 2024) [Preview: 소수의 정의는, 1보...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-34.html">8. JAVA [백준 2581] 소수 (Mon Nov 11 2024) [Preview: 소수를 찾고 소수의...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-35.html">9. JAVA [백준 11653] 소인수분... (Mon Nov 11 2024) [Preview: 소인수 분해는 2부터...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-36.html">10. JAVA [백준 5086] 배수와 약... (Mon Nov 11 2024) [Preview: 1번과 2번의 값을...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
