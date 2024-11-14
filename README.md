@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">1. JAVA [백준 1620] 나는야 포... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">2. JAVA [백준 10816] 슷자 카... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">3. JAVA [백준 1764] 듣보잡 (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">4. JAVA [백준 1269] 대칭 차집... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">5. JAVA [백준 11478] 서로 다... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">1. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">2. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">3. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">4. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">5. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/sql-ex/post-01.html">6. [프로그래머스] 가장 비싼 상품 구하... (Thu Nov 14 2024) [Preview : MAX를 통해 값을...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">7. [JAVA] 변수 (Thu Nov 14 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">8. 파일 시스템의 관리 (Thu Nov 14 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">9. JAVA [백준 10815] 숫자 카... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">10. JAVA [백준 14425] 문자열... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">8. [LINUX] 파일 시스템의 관리 (Thu Nov 14 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">9. [백준 10815] 숫자 카드 &lpar;JA... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">10. [백준 14425] 문자열 집합 &lpar;J... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
