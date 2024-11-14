@@ -52,7 +52,7 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">6. JAVA [백준 10815] 숫자 카... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">7. JAVA [백준 14425] 문자열... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-50.html">8. JAVA [백준 7785] 회사에 있... (Wed Nov 13 2024) [Preview: 자료구조를 많이 알면...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">9. JAVA 변수 (Wed Nov 13 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">9. [JAVA] 변수 (Wed Nov 13 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Linux/administration/post-01.html">10. 권한 및 그룹 설정 (Wed Nov 13 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
