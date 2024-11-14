@@ -49,11 +49,11 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">3. JAVA [백준 1764] 듣보잡 (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">4. JAVA [백준 1269] 대칭 차집... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">5. JAVA [백준 11478] 서로 다... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">6. JAVA [백준 10815] 숫자 카... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">7. JAVA [백준 14425] 문자열... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-50.html">8. JAVA [백준 7785] 회사에 있... (Wed Nov 13 2024) [Preview: 자료구조를 많이 알면...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">9. [JAVA] 변수 (Wed Nov 13 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-01.html">10. 권한 및 그룹 설정 (Wed Nov 13 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/sql-ex/post-01.html">6. [프로그래머스] 가장 비싼 상품 구하... (Thu Nov 14 2024) [Preview : MAX를 통해 값을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">7. [JAVA] 변수 (Thu Nov 14 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">8. 파일 시스템의 관리 (Thu Nov 14 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">9. JAVA [백준 10815] 숫자 카... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">10. JAVA [백준 14425] 문자열... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
