@@ -49,11 +49,11 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">3. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">4. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">5. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/sql-ex/post-01.html">6. [프로그래머스] 가장 비싼 상품 구하... (Thu Nov 14 2024) [Preview : MAX를 통해 값을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">7. [JAVA] 변수 (Thu Nov 14 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">8. [LINUX] 파일 시스템의 관리 (Thu Nov 14 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">9. [백준 10815] 숫자 카드 &lpar;JA... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-49.html">10. [백준 14425] 문자열 집합 &lpar;J... (Wed Nov 13 2024) [Preview: Set을 통해 주어진...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-56.html">6. [백준 1934] 최소공배수 &lpar;JAV... (Thu Nov 14 2024) [Preview: [최소 공배수 = a...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/sql-ex/post-01.html">7. [프로그래머스] 가장 비싼 상품 구하... (Thu Nov 14 2024) [Preview : MAX를 통해 값을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-01.html">8. [JAVA] 변수 (Thu Nov 14 2024) [Preview : 자바에서 변수의 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">9. [LINUX] 파일 시스템의 관리 (Thu Nov 14 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-48.html">10. [백준 10815] 숫자 카드 &lpar;JA... (Wed Nov 13 2024) [Preview: Map을 사용할지,...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
