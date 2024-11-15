@@ -47,13 +47,13 @@
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">1. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">2. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">3. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">4. [LINUX] 파일 시스템의 관리 (Fri Nov 15 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">5. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">6. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">7. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">8. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">9. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-56.html">10. [백준 1934] 최소공배수 &lpar;JAV... (Thu Nov 14 2024) [Preview: [최소 공배수 = a...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-02.html">4. [JAVA] 연산자 (Fri Nov 15 2024) [Preview : 자바에서 연산자에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">5. [LINUX] 파일 시스템의 관리 (Fri Nov 15 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">6. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">7. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">8. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">9. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">10. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
