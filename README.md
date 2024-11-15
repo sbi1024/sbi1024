@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">1. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">2. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">3. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">4. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">5. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-56.html">6. [백준 1934] 최소공배수 &lpar;JAV... (Thu Nov 14 2024) [Preview: [최소 공배수 = a...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-57.html">7. [백준 13241] 최소공배수 &lpar;JA... (Thu Nov 14 2024) [Preview: 입력값이 10의8승까...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-58.html">8. [백준 1735] 분수 합 &lpar;JAVA... (Thu Nov 14 2024) [Preview: 기약분수를 만듬에 있...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-59.html">9. [백준 4134] 다음 소수 &lpar;JAV... (Thu Nov 14 2024) [Preview: 문제를 자세히 읽자,...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-60.html">10. [백준 1929] 소수 구하기 &lpar;JA... (Thu Nov 14 2024) [Preview: 소수를 구함에 있어서...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">1. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">2. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">3. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">4. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">5. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">6. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">7. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-55.html">8. [백준 11478] 서로 다른 부분... (Thu Nov 14 2024) [Preview: 부분 문자열을 구하는...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-56.html">9. [백준 1934] 최소공배수 &lpar;JAV... (Thu Nov 14 2024) [Preview: [최소 공배수 = a...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-57.html">10. [백준 13241] 최소공배수 &lpar;JA... (Thu Nov 14 2024) [Preview: 입력값이 10의8승까...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
