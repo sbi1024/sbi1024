@@ -49,11 +49,11 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-67.html">3. [Algorithm] 괄호 &lpar;백준 9... (Sat Nov 16 2024) [Preview: 문제의 핵심은 어떤...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-68.html">4. [Algorithm] 균형잡힌 세상... (Sat Nov 16 2024) [Preview: 문제에서 주어진 조건...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-69.html">5. [Algorithm] 요세푸스 문제... (Sat Nov 16 2024) [Preview: 문제를 이해하는게 코...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">6. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">7. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">8. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/design-pattern/post-01.html">9. [JAVA] FACADE 패턴 (Fri Nov 15 2024) [Preview : facade 패턴에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-02.html">10. [JAVA] 연산자 (Fri Nov 15 2024) [Preview : 자바에서 연산자에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-03.html">6. [LINUX] 셸&lpar;Shell&rpar;의 개념... (Sat Nov 16 2024) [Preview : 리눅스 셀의 개념과...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">7. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">8. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">9. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/design-pattern/post-01.html">10. [JAVA] FACADE 패턴 (Fri Nov 15 2024) [Preview : facade 패턴에...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
