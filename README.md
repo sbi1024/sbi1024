@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">1. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">2. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">3. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/design-pattern/post-01.html">4. [JAVA] FACADE 패턴 (Fri Nov 15 2024) [Preview : facade 패턴에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-02.html">5. [JAVA] 연산자 (Fri Nov 15 2024) [Preview : 자바에서 연산자에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-02.html">6. [LINUX] 파일 시스템의 관리 (Fri Nov 15 2024) [Preview : 리눅스 파일 시스템...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-51.html">7. [백준 1620] 나는야 포켓몬 마스... (Thu Nov 14 2024) [Preview: 문제가 너무길고 몰입...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-52.html">8. [백준 10816] 슷자 카드 2 &lpar;... (Thu Nov 14 2024) [Preview: map을 통해 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-53.html">9. [백준 1764] 듣보잡 &lpar;JAVA... (Thu Nov 14 2024) [Preview: HashSet Tre...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-54.html">10. [백준 1269] 대칭 차집합 &lpar;JA... (Thu Nov 14 2024) [Preview: retainAll 메...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-65.html">1. [Algorithm] 큐 2 &lpar;백준... (Sat Nov 16 2024) [Preview: 시간을 최대한 줄이고...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-66.html">2. [Algorithm] 덱 2 &lpar;백준... (Sat Nov 16 2024) [Preview: stack과 queu...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-67.html">3. [Algorithm] 괄호 &lpar;백준 9... (Sat Nov 16 2024) [Preview: 문제의 핵심은 어떤...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-68.html">4. [Algorithm] 균형잡힌 세상... (Sat Nov 16 2024) [Preview: 문제에서 주어진 조건...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-69.html">5. [Algorithm] 요세푸스 문제... (Sat Nov 16 2024) [Preview: 문제를 이해하는게 코...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">6. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">7. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">8. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/design-pattern/post-01.html">9. [JAVA] FACADE 패턴 (Fri Nov 15 2024) [Preview : facade 패턴에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-02.html">10. [JAVA] 연산자 (Fri Nov 15 2024) [Preview : 자바에서 연산자에...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
