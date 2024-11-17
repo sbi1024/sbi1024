@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-65.html">1. [Algorithm] 큐 2 &lpar;백준... (Sat Nov 16 2024) [Preview: 시간을 최대한 줄이고...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-66.html">2. [Algorithm] 덱 2 &lpar;백준... (Sat Nov 16 2024) [Preview: stack과 queu...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-67.html">3. [Algorithm] 괄호 &lpar;백준 9... (Sat Nov 16 2024) [Preview: 문제의 핵심은 어떤...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-68.html">4. [Algorithm] 균형잡힌 세상... (Sat Nov 16 2024) [Preview: 문제에서 주어진 조건...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-69.html">5. [Algorithm] 요세푸스 문제... (Sat Nov 16 2024) [Preview: 문제를 이해하는게 코...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-03.html">6. [LINUX] 셸&lpar;Shell&rpar;의 개념... (Sat Nov 16 2024) [Preview : 리눅스 셀의 개념과...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-62.html">7. [백준 10773] 제로 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack&lpar;LIFO&rpar;...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-63.html">8. [백준 2164] 카드 2 &lpar;JAVA... (Fri Nov 15 2024) [Preview: Stack 보다는 A...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-64.html">9. [백준 28278] 스택 2 &lpar;JAV... (Fri Nov 15 2024) [Preview: 조건 1번 스택에 넣...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/design-pattern/post-01.html">10. [JAVA] FACADE 패턴 (Fri Nov 15 2024) [Preview : facade 패턴에...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">1. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">2. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">3. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">4. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">5. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-75.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 순열과 조합을 떠올려...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-65.html">7. [Algorithm] 큐 2 &lpar;백준... (Sat Nov 16 2024) [Preview: 시간을 최대한 줄이고...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-66.html">8. [Algorithm] 덱 2 &lpar;백준... (Sat Nov 16 2024) [Preview: stack과 queu...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-67.html">9. [Algorithm] 괄호 &lpar;백준 9... (Sat Nov 16 2024) [Preview: 문제의 핵심은 어떤...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-68.html">10. [Algorithm] 균형잡힌 세상... (Sat Nov 16 2024) [Preview: 문제에서 주어진 조건...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
