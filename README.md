@@ -50,10 +50,10 @@
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">4. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">5. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-75.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 순열과 조합을 떠올려...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-65.html">7. [Algorithm] 큐 2 &lpar;백준... (Sat Nov 16 2024) [Preview: 시간을 최대한 줄이고...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-66.html">8. [Algorithm] 덱 2 &lpar;백준... (Sat Nov 16 2024) [Preview: stack과 queu...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-67.html">9. [Algorithm] 괄호 &lpar;백준 9... (Sat Nov 16 2024) [Preview: 문제의 핵심은 어떤...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-68.html">10. [Algorithm] 균형잡힌 세상... (Sat Nov 16 2024) [Preview: 문제에서 주어진 조건...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-76.html">7. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 재 풀이 예정, 문제...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-77.html">8. [Algorithm] 블랙잭 &lpar;백준... (Sun Nov 17 2024) [Preview: 주어진 카드중에서 3...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-78.html">9. [Algorithm] 분해합 &lpar;백준... (Sun Nov 17 2024) [Preview: 문제를 단계적으로 발...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-79.html">10. [Algorithm] 영화감독 숌 &lpar;... (Sun Nov 17 2024) [Preview: 숫자가 666을 포함...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
