@@ -45,15 +45,15 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-82.html">1. [Algorithm] 도키도키 간식드... (Mon Nov 18 2024) [Preview: ArrayDeque를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-03.html">2. [JAVA] 조건문 (Mon Nov 18 2024) [Preview : 자바에서 조건문에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-04.html">3. [LINUX] 환경 설정 (Mon Nov 18 2024) [Preview : 리눅스 환경 설정에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">4. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">5. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">7. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">8. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-75.html">9. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 순열과 조합을 떠올려...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-76.html">10. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 재 풀이 예정, 문제...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Db/h2/post-01.html">2. [DB] H2 데이터베이스 설치와 실... (Mon Nov 18 2024) [Preview :] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-03.html">3. [JAVA] 조건문 (Mon Nov 18 2024) [Preview : 자바에서 조건문에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Jpa/orm/post-01.html">4. [JPA] 영속성 관리&lpar;내부 동작 방... (Mon Nov 18 2024) [Preview : JPA의 영속성 관...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-04.html">5. [LINUX] 환경 설정 (Mon Nov 18 2024) [Preview : 리눅스 환경 설정에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">7. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">8. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">9. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">10. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
