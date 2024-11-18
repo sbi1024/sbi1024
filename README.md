@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">1. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">2. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">3. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">4. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">5. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-75.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 순열과 조합을 떠올려...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-76.html">7. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 재 풀이 예정, 문제...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-77.html">8. [Algorithm] 블랙잭 &lpar;백준... (Sun Nov 17 2024) [Preview: 주어진 카드중에서 3...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-78.html">9. [Algorithm] 분해합 &lpar;백준... (Sun Nov 17 2024) [Preview: 문제를 단계적으로 발...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-79.html">10. [Algorithm] 영화감독 숌 &lpar;... (Sun Nov 17 2024) [Preview: 숫자가 666을 포함...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Linux/administration/post-04.html">1. [LINUX] 환경 설정 (Mon Nov 18 2024) [Preview : 리눅스 환경 설정에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">2. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">3. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">4. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 차수는 다항식의 지수...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-73.html">5. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 1 ~ N 까지의 합...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-74.html">6. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 입력값의 범위는 50...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-75.html">7. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 순열과 조합을 떠올려...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-76.html">8. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [Preview: 재 풀이 예정, 문제...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-77.html">9. [Algorithm] 블랙잭 &lpar;백준... (Sun Nov 17 2024) [Preview: 주어진 카드중에서 3...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-78.html">10. [Algorithm] 분해합 &lpar;백준... (Sun Nov 17 2024) [Preview: 문제를 단계적으로 발...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
