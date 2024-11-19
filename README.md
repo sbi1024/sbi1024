@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Linux/administration/post-05.html">1. [LINUX] 프로세스의 개념 및 유... (Tue Nov 19 2024) [intro : LINUX proces...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-82.html">2. [Algorithm] 도키도키 간식드... (Mon Nov 18 2024) [intro : ArrayDeque를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-83.html">3. [Algorithm] 풍선 터뜨리기... (Mon Nov 18 2024) [intro : 계속 고민하게 되는 부...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Db/h2/post-01.html">4. [DB] H2 데이터베이스 설치와 실... (Mon Nov 18 2024) [intro : H2 데이터 베이스를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-03.html">5. [JAVA] 조건문 (Mon Nov 18 2024) [intro : JAVA 조건문에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Jpa/orm/post-01.html">6. [JPA] 영속성 관리&lpar;내부 동작 방... (Mon Nov 18 2024) [intro : JPA의 영속성 관리에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-04.html">7. [LINUX] 환경 설정 (Mon Nov 18 2024) [intro : LINUX 환경 설정에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">8. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [intro : 차수는 다항식의 지수중...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">9. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [intro : 차수는 다항식의 지수중...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-72.html">10. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [intro : 차수는 다항식의 지수중...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-84.html">1. [Algorithm] 커트라인 &lpar;백준... (Tue Nov 19 2024) [intro : 역순으로 정렬할까 하다...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-05.html">2. [LINUX] 프로세스의 개념 및 유... (Tue Nov 19 2024) [intro : LINUX proces...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-82.html">3. [Algorithm] 도키도키 간식드... (Mon Nov 18 2024) [intro : ArrayDeque를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-83.html">4. [Algorithm] 풍선 터뜨리기... (Mon Nov 18 2024) [intro : 계속 고민하게 되는 부...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Db/h2/post-01.html">5. [DB] H2 데이터베이스 설치와 실... (Mon Nov 18 2024) [intro : H2 데이터 베이스를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/post-03.html">6. [JAVA] 조건문 (Mon Nov 18 2024) [intro : JAVA 조건문에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Jpa/orm/post-01.html">7. [JPA] 영속성 관리&lpar;내부 동작 방... (Mon Nov 18 2024) [intro : JPA의 영속성 관리에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-04.html">8. [LINUX] 환경 설정 (Mon Nov 18 2024) [intro : LINUX 환경 설정에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-70.html">9. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [intro : 차수는 다항식의 지수중...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-71.html">10. [Algorithm] 알고리즘 수업... (Sun Nov 17 2024) [intro : 차수는 다항식의 지수중...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
