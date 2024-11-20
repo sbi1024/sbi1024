@@ -46,14 +46,14 @@
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Java/design-pattern/post-02.html">1. [JAVA] STRATEGY 패턴 (Wed Nov 20 2024) [intro : strategy 패턴에...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/Java/introduction/post-04.html">2. [JAVA] 반복문 (Wed Nov 20 2024) [intro : java 반복문에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-06.html">3. [LINUX] 프로세스 유틸리티 (Wed Nov 20 2024) [intro : linux proces...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-84.html">4. [Algorithm] 커트라인 &lpar;백준... (Tue Nov 19 2024) [intro : 역순으로 정렬할까 하다...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-85.html">5. [Algorithm] 수 정렬하기 2... (Tue Nov 19 2024) [intro : Arrays.sort는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-86.html">6. [Algorithm] 수 정렬하기 3... (Tue Nov 19 2024) [intro : 백준 2751번 수 정...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-87.html">7. [Algorithm] 소트인사이드 &lpar;... (Tue Nov 19 2024) [intro : 객체 배열의 Array...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-05.html">8. [LINUX] 프로세스의 개념 및 유... (Tue Nov 19 2024) [intro : linux proces...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-82.html">9. [Algorithm] 도키도키 간식드... (Mon Nov 18 2024) [intro : ArrayDeque를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-83.html">10. [Algorithm] 풍선 터뜨리기... (Mon Nov 18 2024) [intro : 계속 고민하게 되는 부...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Jpa/orm/post-02.html">3. [JPA] 엔티티 매핑 (Wed Nov 20 2024) [intro : jpa의 엔티티 매핑에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-06.html">4. [LINUX] 프로세스 유틸리티 (Wed Nov 20 2024) [intro : linux proces...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-84.html">5. [Algorithm] 커트라인 &lpar;백준... (Tue Nov 19 2024) [intro : 역순으로 정렬할까 하다...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-85.html">6. [Algorithm] 수 정렬하기 2... (Tue Nov 19 2024) [intro : Arrays.sort는...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-86.html">7. [Algorithm] 수 정렬하기 3... (Tue Nov 19 2024) [intro : 백준 2751번 수 정...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-87.html">8. [Algorithm] 소트인사이드 &lpar;... (Tue Nov 19 2024) [intro : 객체 배열의 Array...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/post-05.html">9. [LINUX] 프로세스의 개념 및 유... (Tue Nov 19 2024) [intro : linux proces...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-82.html">10. [Algorithm] 도키도키 간식드... (Mon Nov 18 2024) [intro : ArrayDeque를...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
