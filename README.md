@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-88.html">1. [Algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Jpa/orm/post-03.html">2. [JPA] 연관관계 매핑 기초 (Thu Nov 21 2024) [intro : jpa의 연관관계 매핑...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/design-pattern/post-02.html">3. [JAVA] STRATEGY 패턴 (Wed Nov 20 2024) [intro : strategy 패턴에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Java/introduction/post-04.html">4. [JAVA] 반복문 (Wed Nov 20 2024) [intro : java 반복문에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Jpa/orm/post-02.html">5. [JPA] 엔티티 매핑 (Wed Nov 20 2024) [intro : jpa의 엔티티 매핑에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Linux/administration/post-06.html">6. [LINUX] 프로세스 유틸리티 (Wed Nov 20 2024) [intro : linux proces...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-84.html">7. [Algorithm] 커트라인 &lpar;백준... (Tue Nov 19 2024) [intro : 역순으로 정렬할까 하다...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-85.html">8. [Algorithm] 수 정렬하기 2... (Tue Nov 19 2024) [intro : Arrays.sort는...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-86.html">9. [Algorithm] 수 정렬하기 3... (Tue Nov 19 2024) [intro : 백준 2751번 수 정...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/Algorithm/java-ex/post-87.html">10. [Algorithm] 소트인사이드 &lpar;... (Tue Nov 19 2024) [intro : 객체 배열의 Array...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/Java/introduction/5.html">1. [java] 스코프, 형변환 (Fri Nov 22 2024) [intro : java 스코프, 형변...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/5.html">2. [java] 스코프, 형변환 (Fri Nov 22 2024) [intro : java 스코프, 형변...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Algorithm/java-ex/88.html">3. [algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Jpa/orm/3.html">4. [jpa] 연관관계 매핑 기초 (Thu Nov 21 2024) [intro : jpa의 연관관계 매핑...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-ex/88.html">5. [algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/jpa/orm/3.html">6. [jpa] 연관관계 매핑 기초 (Thu Nov 21 2024) [intro : jpa의 연관관계 매핑...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/design-pattern/2.html">7. [java] strategy 패턴 (Wed Nov 20 2024) [intro : strategy 패턴에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Java/introduction/4.html">8. [java] 반복문 (Wed Nov 20 2024) [intro : java 반복문에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Jpa/orm/2.html">9. [jpa] 엔티티 매핑 (Wed Nov 20 2024) [intro : jpa의 엔티티 매핑에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/Linux/administration/6.html">10. [linux] 프로세스 유틸리티 (Wed Nov 20 2024) [intro : linux proces...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
