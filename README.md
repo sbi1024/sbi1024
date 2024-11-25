@@ -49,11 +49,11 @@
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">3. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/92">4. [algorithm] 이항 계수 1... (Mon Nov 25 2024) [intro : 이항계수의 뜻은 조합의...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/93">5. [algorithm] 다리 놓기 &lpar;백... (Mon Nov 25 2024) [intro : 최적화를 해서 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/7">6. [linux] 에디터 (Mon Nov 25 2024) [intro : linux 애디터에 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/8">7. [record] 이제는 하다하다 블로... (Sun Nov 24 2024) [intro : .html 확장자 어떻...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/5">8. [java] 스코프, 형변환 (Fri Nov 22 2024) [intro : java 스코프, 형변...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/88">9. [algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/jpa/orm/3">10. [jpa] 연관관계 매핑 기초 (Thu Nov 21 2024) [intro : jpa의 연관관계 매핑...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/94">6. [algorithm] 가로수 &lpar;백준... (Mon Nov 25 2024) [intro : 가로수길 걷다가 이 문...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/7">7. [linux] 에디터 (Mon Nov 25 2024) [intro : linux 애디터에 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/8">8. [record] 이제는 하다하다 블로... (Sun Nov 24 2024) [intro : .html 확장자 어떻...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/5">9. [java] 스코프, 형변환 (Fri Nov 22 2024) [intro : java 스코프, 형변...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/88">10. [algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
