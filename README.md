@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">1. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">2. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">3. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/92">4. [algorithm] 이항 계수 1... (Mon Nov 25 2024) [intro : 이항계수의 뜻은 조합의...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/93">5. [algorithm] 다리 놓기 &lpar;백... (Mon Nov 25 2024) [intro : 최적화를 해서 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/94">6. [algorithm] 가로수 &lpar;백준... (Mon Nov 25 2024) [intro : 가로수길 걷다가 이 문...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/7">7. [linux] 에디터 (Mon Nov 25 2024) [intro : linux 애디터에 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/8">8. [record] 이제는 하다하다 블로... (Sun Nov 24 2024) [intro : .html 확장자 어떻...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/5">9. [java] 스코프, 형변환 (Fri Nov 22 2024) [intro : java 스코프, 형변...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/88">10. [algorithm] 골드바흐 파티션... (Thu Nov 21 2024) [intro : 에라토스테네스의 체 방...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/java/introduction/6">1. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/7">2. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">3. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">4. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">5. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/92">6. [algorithm] 이항 계수 1... (Mon Nov 25 2024) [intro : 이항계수의 뜻은 조합의...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/93">7. [algorithm] 다리 놓기 &lpar;백... (Mon Nov 25 2024) [intro : 최적화를 해서 문제를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/94">8. [algorithm] 가로수 &lpar;백준... (Mon Nov 25 2024) [intro : 가로수길 걷다가 이 문...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/7">9. [linux] 에디터 (Mon Nov 25 2024) [intro : linux 애디터에 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/8">10. [record] 이제는 하다하다 블로... (Sun Nov 24 2024) [intro : .html 확장자 어떻...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
