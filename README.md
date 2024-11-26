@@ -45,15 +45,15 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">1. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/design-pattern/3">2. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/6">3. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/7">4. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">5. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">6. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">7. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/92">8. [algorithm] 이항 계수 1... (Mon Nov 25 2024) [intro : 이항계수의 뜻은 조합의...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/93">9. [algorithm] 다리 놓기 &lpar;백... (Mon Nov 25 2024) [intro : 최적화를 해서 문제를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/94">10. [algorithm] 가로수 &lpar;백준... (Mon Nov 25 2024) [intro : 가로수길 걷다가 이 문...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">2. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/design-pattern/3">3. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/6">4. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/7">5. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">6. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">7. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">8. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/92">9. [algorithm] 이항 계수 1... (Mon Nov 25 2024) [intro : 이항계수의 뜻은 조합의...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/93">10. [algorithm] 다리 놓기 &lpar;백... (Mon Nov 25 2024) [intro : 최적화를 해서 문제를...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
