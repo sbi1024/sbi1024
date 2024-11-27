@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/linux/administration/8">1. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/9">2. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">3. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">4. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">5. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-chalnges/98">6. [algorithm] 붙임성 좋은 총... (Tue Nov 26 2024) [intro : Set은 참 훌륭한 자...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/design-pattern/3">7. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/6">8. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/7">9. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">10. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/linux/administration/11">1. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/12">2. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/8">3. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/9">4. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">5. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">6. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">7. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-chalnges/98">8. [algorithm] 붙임성 좋은 총... (Tue Nov 26 2024) [intro : Set은 참 훌륭한 자...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/design-pattern/3">9. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/6">10. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
