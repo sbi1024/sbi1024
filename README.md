@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">1. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">2. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">3. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-chalnges/98">4. [algorithm] 붙임성 좋은 총... (Tue Nov 26 2024) [intro : Set은 참 훌륭한 자...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/design-pattern/3">5. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/6">6. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/introduction/7">7. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">8. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">9. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/91">10. [algorithm] 팩토리얼 &lpar;백준... (Mon Nov 25 2024) [intro : 팩토리얼은 주어진 N부...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/9">1. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">2. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">3. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">4. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-chalnges/98">5. [algorithm] 붙임성 좋은 총... (Tue Nov 26 2024) [intro : Set은 참 훌륭한 자...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/design-pattern/3">6. [java] template meth... (Tue Nov 26 2024) [intro : template met...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/6">7. [java] 배열 (Tue Nov 26 2024) [intro : java 배열에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/introduction/7">8. [java] 메소드 (Tue Nov 26 2024) [intro : java 메소드에 대한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/89">9. [algorithm] 베라의 패션 &lpar;... (Mon Nov 25 2024) [intro : 상의와 하의가 다른 색...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/90">10. [algorithm] 녹색거탑 &lpar;백준... (Mon Nov 25 2024) [intro : 문제가 암청 거창한거에...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
