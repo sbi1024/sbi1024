@@ -45,15 +45,15 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">1. [algorithm] 영단어 암기는... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">2. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/11">3. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/12">4. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/8">5. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/9">6. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">7. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">8. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">9. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/98">10. [algorithm] 붙임성 좋은 총... (Tue Nov 26 2024) [intro : Set은 참 훌륭한 자...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/101">2. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : List를 통해서도 풀...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">3. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/11">4. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/12">5. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/8">6. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/9">7. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/95">8. [algorithm] 창문 닫기 &lpar;백... (Tue Nov 26 2024) [intro : 이런 문제들 너무나도...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/96">9. [algorithm] 약수 &lpar;백준 1... (Tue Nov 26 2024) [intro : 진짜 약수의 최소값과...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/97">10. [algorithm] 인사성 밝은 곰... (Tue Nov 26 2024) [intro : 중복제거는 Set이 최...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
