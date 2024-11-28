@@ -49,11 +49,11 @@
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/102">3. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : 좌표 정렬하기 문제 방...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/103">4. [algorithm] 단어 정렬 &lpar;백... (Thu Nov 28 2024) [intro : TreeSet을 사용하...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/104">5. [algorithm] 나이순 정렬 &lpar;... (Thu Nov 28 2024) [intro : static 내부 cl...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">6. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/11">7. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/12">8. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/8">9. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/9">10. [record] 점심먹기 전에 자이언... (Wed Nov 27 2024) [intro : Zion.T V 노래...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/105">6. [algorithm] 좌표 압축 &lpar;백... (Thu Nov 28 2024) [intro : 간만에 문제에서 뭘 원...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">7. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/11">8. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/12">9. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/8">10. [linux] 에디터 활용 (Wed Nov 27 2024) [intro : linux 애디터 활용...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
