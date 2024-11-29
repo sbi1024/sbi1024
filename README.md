@@ -45,15 +45,15 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/106">1. [algorithm] 팩토리얼 2 &lpar;... (Fri Nov 29 2024) [intro : 재귀함수는 내가 제일...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">2. [algorithm] 영단어 암기는... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/101">3. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : List를 통해서도 풀...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/102">4. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : 좌표 정렬하기 문제 방...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/103">5. [algorithm] 단어 정렬 &lpar;백... (Thu Nov 28 2024) [intro : TreeSet을 사용하...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/104">6. [algorithm] 나이순 정렬 &lpar;... (Thu Nov 28 2024) [intro : static 내부 cl...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/105">7. [algorithm] 좌표 압축 &lpar;백... (Thu Nov 28 2024) [intro : 간만에 문제에서 뭘 원...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">8. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/11">9. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/linux/administration/12">10. [linux] 주변 장치 활용 (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/design-pattern/4 - java - design-pattern - singleton">2. [java] singleton 패턴 (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">3. [algorithm] 영단어 암기는... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/101">4. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : List를 통해서도 풀...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/102">5. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : 좌표 정렬하기 문제 방...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/103">6. [algorithm] 단어 정렬 &lpar;백... (Thu Nov 28 2024) [intro : TreeSet을 사용하...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/104">7. [algorithm] 나이순 정렬 &lpar;... (Thu Nov 28 2024) [intro : static 내부 cl...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/105">8. [algorithm] 좌표 압축 &lpar;백... (Thu Nov 28 2024) [intro : 간만에 문제에서 뭘 원...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/99">9. [algorithm] 통계학 &lpar;백준... (Wed Nov 27 2024) [intro : 최빈값을 구하는 부분을...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/linux/administration/11">10. [linux] 주변 장치 연결 및 설... (Wed Nov 27 2024) [intro : linux 주변 장치...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
