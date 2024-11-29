@@ -45,7 +45,7 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/106">1. [algorithm] 팩토리얼 2 &lpar;... (Fri Nov 29 2024) [intro : 재귀함수는 내가 제일...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/java/design-pattern/4 - java - design-pattern - singleton">2. [java] singleton 패턴 (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/java/design-pattern/4">2. [java] singleton 패턴 (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">3. [algorithm] 영단어 암기는... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/101">4. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : List를 통해서도 풀...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/102">5. [algorithm] 좌표 정렬하기... (Thu Nov 28 2024) [intro : 좌표 정렬하기 문제 방...] 🦋</a></li>
