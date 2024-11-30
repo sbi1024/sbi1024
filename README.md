@@ -46,7 +46,7 @@
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/algorithm/java-challenges/107">1. [algorithm] 피보나치 수 5... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/108">2. [algorithm] 머쓱이보다 키... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/aws/ec2/1">3. [aws] ec2를 통해 백엔드 ap... (Sat Nov 30 2024) [intro : 백엔드 API 서버를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/aws/ec2/1">3. [aws] ec2를 통해 백엔드 ap... (Sat Nov 30 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/record/diary/10">4. [record] 24년도 11월의 마... (Sat Nov 30 2024) [intro : 이번주는 참 눈이 많이...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/106">5. [algorithm] 팩토리얼 2 &lpar;... (Fri Nov 29 2024) [intro : 재귀함수는 내가 제일...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/java/design-pattern/4">6. [java] singleton 패턴 (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
