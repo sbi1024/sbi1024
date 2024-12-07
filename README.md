@@ -44,16 +44,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/devops/aws/3">1. [aws] ec2 인스턴스에 도메인&lpar;... (Mon Dec 02 2024) [intro : ec2 인스턴스에 도메...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/2">2. [aws] ec2를 통해 백엔드 ap... (Sun Dec 01 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/107">3. [java-challenges] 피보... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/108">4. [java-challenges] 머쓱... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/1">5. [aws] ec2를 통해 백엔드 ap... (Sat Nov 30 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/10">6. [diary] 24년도 11월의 마지... (Sat Nov 30 2024) [intro : 이번주는 참 눈이 많이...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/106">7. [java-challenges] 팩토... (Fri Nov 29 2024) [intro : 재귀함수는 내가 제일...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/back-end/design-pattern/4">8. [design-pattern] sin... (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">9. [java-challenges] 영단... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/101">10. [java-challenges] 좌표... (Thu Nov 28 2024) [intro : List를 통해서도 풀...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/11">1. [diary] 리눅스 시험이 1주일... (Sat Dec 07 2024) [intro : 5일만의 첫글이다. 나...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/3">2. [aws] ec2 인스턴스에 도메인&lpar;... (Mon Dec 02 2024) [intro : ec2 인스턴스에 도메...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/2">3. [aws] ec2를 통해 백엔드 ap... (Sun Dec 01 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/107">4. [java-challenges] 피보... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/108">5. [java-challenges] 머쓱... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/1">6. [aws] ec2를 통해 백엔드 ap... (Sat Nov 30 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/10">7. [diary] 24년도 11월의 마지... (Sat Nov 30 2024) [intro : 이번주는 참 눈이 많이...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/106">8. [java-challenges] 팩토... (Fri Nov 29 2024) [intro : 재귀함수는 내가 제일...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/back-end/design-pattern/4">9. [design-pattern] sin... (Fri Nov 29 2024) [intro : singleton 패턴...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/java-challenges/100">10. [java-challenges] 영단... (Thu Nov 28 2024) [intro : 정렬은 항상 고려할게...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
