@@ -45,9 +45,9 @@
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
 <!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/devops/aws/5">1. [aws] rds&lpar;database&rpar;... (Tue Dec 10 2024) [intro : rds&lpar;database...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/4">2. [aws] ec2 인스턴스에 http... (Mon Dec 09 2024) [intro : ec2 인스턴스에 ht...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/4">2. [aws] elb&lpar;load balan... (Mon Dec 09 2024) [intro : elb&lpar;load bal...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/record/diary/11">3. [diary] 리눅스 시험이 1주일... (Sat Dec 07 2024) [intro : 5일만의 첫글이다. 나...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/3">4. [aws] ec2 인스턴스에 도메인&lpar;... (Mon Dec 02 2024) [intro : ec2 인스턴스에 도메...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/3">4. [aws] route53을 통해 도메... (Mon Dec 02 2024) [intro : route53을 통해...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/devops/aws/2">5. [aws] ec2를 통해 백엔드 ap... (Sun Dec 01 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/107">6. [java-challenges] 피보... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/algorithm/java-challenges/108">7. [java-challenges] 머쓱... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
