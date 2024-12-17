@@ -44,7 +44,7 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/devops/pipeline/1">1. [pipeline] ci/cd와 gi... (Mon Dec 16 2024) [intro : ci/cd의 개념에 대...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/devops/pipeline/1">1. [pipeline] ci/cd와 gi... (Tue Dec 17 2024) [intro : ci/cd의 개념에 대...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/record/diary/12">2. [diary] 시간이 후딱 간다고 느... (Sun Dec 15 2024) [intro : 블꾸 진짜 재밌어.] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/devops/aws/5">3. [aws] rds&lpar;database&rpar;... (Tue Dec 10 2024) [intro : rds&lpar;database...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/devops/aws/6">4. [aws] s3를 통해 파일 및 이미... (Tue Dec 10 2024) [intro : s3를 통해 파일 및...] 🦋</a></li>
