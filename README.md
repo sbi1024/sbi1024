@@ -52,8 +52,8 @@
 <li><a href="https://sbi1024.github.io/record/diary/11">6. [diary] 리눅스 시험이 1주일... (Sat Dec 07 2024) [intro : 5일만의 첫글이다. 나...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/devops/aws/3">7. [aws] route53을 통해 도메... (Mon Dec 02 2024) [intro : route53을 통해...] 🦋</a></li>
 <li><a href="https://sbi1024.github.io/devops/aws/2">8. [aws] ec2를 통해 백엔드 ap... (Sun Dec 01 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/107">9. [java-challenges] 피보... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/algorithm/java-challenges/108">10. [java-challenges] 머쓱... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/baekjoon/107">9. [baekjoon] 피보나치 수 5... (Sat Nov 30 2024) [intro : 재귀함수는 싫다. 싫어...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/algorithm/programmers/3">10. [programmers] 머쓱이보다... (Sat Nov 30 2024) [intro : level0 문제라 굉...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
