@@ -45,16 +45,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/13">1. [diary] 이번주는 정말로 시간이... (Sun Dec 22 2024) [intro : 아 이번주 이상하게 일...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/pipeline/2">2. [pipeline] 백엔드&lpar;sprin... (Sat Dec 21 2024) [intro : 백엔드&lpar;spring b...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/pipeline/1">3. [pipeline] ci/cd와 gi... (Tue Dec 17 2024) [intro : ci/cd의 개념에 대...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/12">4. [diary] 시간이 후딱 간다고 느... (Sun Dec 15 2024) [intro : 블꾸 진짜 재밌어.] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/5">5. [aws] rds&lpar;database&rpar;... (Tue Dec 10 2024) [intro : rds&lpar;database...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/6">6. [aws] s3를 통해 파일 및 이미... (Tue Dec 10 2024) [intro : s3를 통해 파일 및...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/4">7. [aws] elb&lpar;load balan... (Mon Dec 09 2024) [intro : elb&lpar;load bal...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/11">8. [diary] 리눅스 시험이 1주일... (Sat Dec 07 2024) [intro : 5일만의 첫글이다. 나...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/3">9. [aws] route53을 통해 도메... (Mon Dec 02 2024) [intro : route53을 통해...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/2">10. [aws] ec2를 통해 백엔드 ap... (Sun Dec 01 2024) [intro : 백엔드 api 서버를...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/project/infinite-challenge/1">1. [infinite-challenge]... (Thu Dec 26 2024) [intro: 나의 첫 번째 프로젝트2...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/13">2. [diary] 이번주는 정말로 시간이... (Sun Dec 22 2024) [intro : 아 이번주 이상하게 일...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/pipeline/2">3. [pipeline] 백엔드&lpar;sprin... (Sat Dec 21 2024) [intro : 백엔드&lpar;spring b...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/pipeline/1">4. [pipeline] ci/cd와 gi... (Tue Dec 17 2024) [intro : ci/cd의 개념에 대...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/12">5. [diary] 시간이 후딱 간다고 느... (Sun Dec 15 2024) [intro : 블꾸 진짜 재밌어.] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/5">6. [aws] rds&lpar;database&rpar;... (Tue Dec 10 2024) [intro : rds&lpar;database...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/6">7. [aws] s3를 통해 파일 및 이미... (Tue Dec 10 2024) [intro : s3를 통해 파일 및...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/4">8. [aws] elb&lpar;load balan... (Mon Dec 09 2024) [intro : elb&lpar;load bal...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/11">9. [diary] 리눅스 시험이 1주일... (Sat Dec 07 2024) [intro : 5일만의 첫글이다. 나...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/3">10. [aws] route53을 통해 도메... (Mon Dec 02 2024) [intro : route53을 통해...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
