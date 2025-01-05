@@ -1,5 +1,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbi1024%2Fhit-counter&count_bg=%23C91426&title_bg=%23311CD1&icon=canonical.svg&icon_color=%23B51DDB&title=%F0%9D%92%97%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95&edge_flat=false"/></a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbi1024)](https://solved.ac/sbi1024)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbi1024)](https://solved.ac/sbi1024) 
 
 ### 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑀𝑒 🔗  
 <span><a href="https://sbi1024.github.io/"> <img src="https://github.com/user-attachments/assets/9efa66cd-c50f-4487-aa47-6e5814ca2991" alt="free-icon-github" width="50" heigth = "50" /></a></span>
