@@ -6,7 +6,7 @@
 <span><a href="https://www.instagram.com/yamu.okay/" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=light" /></a></span>
 <span><a href="https://open.kakao.com/o/ggq6pkWg"><img src="https://github.com/user-attachments/assets/5aec97fd-8573-441a-a8fa-19e47ce5e2d9" alt="free-icon-kakao" width="50" heigth = "50"></a></span>
 <span><a href="https://discord.gg/qMAZGWW4Zd" target="blank"><img src="https://skillicons.dev/icons?i=discord&theme=light" /></a></span>
-<span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a></span> 
+<span><a href="mailto:treein10242@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a></span>  
 
 ### 𝑅𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝘩𝑖𝑠 𝑤𝑖𝑙𝑙 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑖𝑚𝑚𝑒𝑛𝑠𝑒 𝑔𝑜𝑜𝑑 𝑙𝑢𝑐𝑘 ✨
 <details>
