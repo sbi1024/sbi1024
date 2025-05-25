@@ -46,16 +46,16 @@
 
  
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/19">1. [diary] 아직 살아있는 사람 (Thu May 15 2025) [intro : 나는 살아있다.] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/18">2. [diary] 부트캠프 시작 후 더욱... (Mon Jan 27 2025) [intro : 부트캠프 첫주 후에 한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/17">3. [diary] 현 시점 온 우주의 기... (Sat Jan 18 2025) [intro : 정말 오랜만이지?] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/16">4. [diary] 어쩔수 없이 토요일에도... (Sat Jan 04 2025) [intro : 기쁨은 나누면 2배잖아...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/docker/2">5. [docker] 자주 사용하는 doc... (Thu Jan 02 2025) [intro : 자주 사용하는 dock...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/15">6. [diary] 25년도 새 출발을 알... (Wed Jan 01 2025) [intro : 25년도에는 건강하고...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/docker/1">7. [docker] 기본 개념 및 설치... (Sat Dec 28 2024) [intro : docker의 기본 개...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/14">8. [diary] 24년도 마지막 토요일... (Sat Dec 28 2024) [intro : 그러고보니 오늘이 24...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/aws/7">9. [aws] s3와 cloudfront... (Fri Dec 27 2024) [intro : s3와 cloudfro...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/project/infinite-challenge/1">10. [infinite-challenge]... (Thu Dec 26 2024) [intro: 나의 첫 번째 프로젝트2...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/20">1. [diary] 미니프로젝트 과정과 결... (Sun May 25 2025) [intro : 왜 매번 끝나고 나서야...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/19">2. [diary] 아직 살아있는 사람 (Thu May 15 2025) [intro : 나는 살아있다.] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/18">3. [diary] 부트캠프 시작 후 더욱... (Mon Jan 27 2025) [intro : 부트캠프 첫주 후에 한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/17">4. [diary] 현 시점 온 우주의 기... (Sat Jan 18 2025) [intro : 정말 오랜만이지?] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/16">5. [diary] 어쩔수 없이 토요일에도... (Sat Jan 04 2025) [intro : 기쁨은 나누면 2배잖아...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/docker/2">6. [docker] 자주 사용하는 doc... (Thu Jan 02 2025) [intro : 자주 사용하는 dock...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/15">7. [diary] 25년도 새 출발을 알... (Wed Jan 01 2025) [intro : 25년도에는 건강하고...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/docker/1">8. [docker] 기본 개념 및 설치... (Sat Dec 28 2024) [intro : docker의 기본 개...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/14">9. [diary] 24년도 마지막 토요일... (Sat Dec 28 2024) [intro : 그러고보니 오늘이 24...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/aws/7">10. [aws] s3와 cloudfront... (Fri Dec 27 2024) [intro : s3와 cloudfro...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
