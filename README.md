@@ -46,16 +46,16 @@
 ➢  𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐼’𝑚 𝑝𝑎𝑟𝑡𝑖𝑐𝑖𝑝𝑎𝑡𝑖𝑛𝑔 𝑖𝑛 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠 𝑎𝑛𝑑 𝑤𝑜𝑢𝑙𝑑 𝑙𝑜𝑣𝑒 𝑡𝑜 𝑡𝑎𝑘𝑒 𝑝𝑎𝑟𝑡 𝑖𝑛 𝑚𝑎𝑛𝑦 𝑚𝑜𝑟𝑒 𝑖𝑛 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒. </br>
 
 ### 𝐿𝑎𝑡𝑒𝑠𝑡 𝐵𝑙𝑜𝑔 𝑃𝑜𝑠𝑡𝑠 📕
-<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/22">1. [diary] 종합프로젝트 1등했는데... (Sun Jul 06 2025) [intro : 1등했다.] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/21">2. [diary] 종합프로젝트 쉽지 않겠... (Sun Jun 01 2025) [intro : 진짜 큰일난거 같은데] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/20">3. [diary] 미니프로젝트 과정과 결... (Sun May 25 2025) [intro : 왜 매번 끝나고 나서야...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/19">4. [diary] 아직 살아있는 사람 (Thu May 15 2025) [intro : 나는 살아있다.] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/18">5. [diary] 부트캠프 시작 후 더욱... (Mon Jan 27 2025) [intro : 부트캠프 첫주 후에 한...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/17">6. [diary] 현 시점 온 우주의 기... (Sat Jan 18 2025) [intro : 정말 오랜만이지?] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/16">7. [diary] 어쩔수 없이 토요일에도... (Sat Jan 04 2025) [intro : 기쁨은 나누면 2배잖아...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/docker/2">8. [docker] 자주 사용하는 doc... (Thu Jan 02 2025) [intro : 자주 사용하는 dock...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/record/diary/15">9. [diary] 25년도 새 출발을 알... (Wed Jan 01 2025) [intro : 25년도에는 건강하고...] 🦋</a></li>
-<li><a href="https://sbi1024.github.io/devops/docker/1">10. [docker] 기본 개념 및 설치... (Sat Dec 28 2024) [intro : docker의 기본 개...] 🦋</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sbi1024.github.io/record/diary/23">1. [diary] 최종융합프로젝트의 끝,... (Mon Aug 18 2025) [intro : 시원하고 섭섭하다.] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/22">2. [diary] 종합프로젝트 1등했는데... (Sun Jul 06 2025) [intro : 1등했다.] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/21">3. [diary] 종합프로젝트 쉽지 않겠... (Sun Jun 01 2025) [intro : 진짜 큰일난거 같은데] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/20">4. [diary] 미니프로젝트 과정과 결... (Sun May 25 2025) [intro : 왜 매번 끝나고 나서야...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/19">5. [diary] 아직 살아있는 사람 (Thu May 15 2025) [intro : 나는 살아있다.] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/18">6. [diary] 부트캠프 시작 후 더욱... (Mon Jan 27 2025) [intro : 부트캠프 첫주 후에 한...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/17">7. [diary] 현 시점 온 우주의 기... (Sat Jan 18 2025) [intro : 정말 오랜만이지?] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/16">8. [diary] 어쩔수 없이 토요일에도... (Sat Jan 04 2025) [intro : 기쁨은 나누면 2배잖아...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/devops/docker/2">9. [docker] 자주 사용하는 doc... (Thu Jan 02 2025) [intro : 자주 사용하는 dock...] 🦋</a></li>
+<li><a href="https://sbi1024.github.io/record/diary/15">10. [diary] 25년도 새 출발을 알... (Wed Jan 01 2025) [intro : 25년도에는 건강하고...] 🦋</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ---
